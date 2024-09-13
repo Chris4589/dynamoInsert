@@ -1,0 +1,218 @@
+[
+    {
+        "orderCode": "EX-1.1000.000",
+        "description": "Exportación Definitiva, Exportación Definitiva, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1040.000",
+        "description": "Exportación Definitiva, Exportación Definitiva Sustitución de Mercancías, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1041.020",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Provisional, Franq. Presidenciales exento de DAI"
+    },
+    {
+        "orderCode": "EX-1.1041.021",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Provisional, Franq. Presidenciales exento de DAI e IVA"
+    },
+    {
+        "orderCode": "EX-1.1048.025",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Maquinaria y Equipo LZF. DPA"
+    },
+    {
+        "orderCode": "EX-1.1048.031",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Distribución Internacional"
+    },
+    {
+        "orderCode": "EX-1.1048.032",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Operaciones Internacionales de Logística"
+    },
+    {
+        "orderCode": "EX-1.1048.033",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Centro Internacional de llamadas (Call Center)"
+    },
+    {
+        "orderCode": "EX-1.1048.034",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Tecnologías de Información LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.035",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Investigación y Desarrollo LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.036",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación y Mantenimiento de Embarcaciones Marítimas LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.037",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación y Mantenimiento de Aeronaves LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.038",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Procesos Empresariales LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.039",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Servicios Medico-Hospitalarios LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.040",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Servicios Financieros Internacionales LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.043",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación y Mantenimiento de Contenedores LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.044",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación de Equipos Tecnológicos LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.054",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Atención Ancianos y Convalecientes LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.055",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Telemedicina LSI"
+    },
+    {
+        "orderCode": "EX-1.1048.056",
+        "description": "Exportación Definitiva, Exportación Definitiva Proveniente de Franquicia Definitiva, Cinematografía LSI"
+    },
+    {
+        "orderCode": "EX-1.1052.000",
+        "description": "Exportación Definitiva, Exportación Definitiva de DPA con origen en Compras Locales, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1054.000",
+        "description": "Exportación Definitiva, Exportación Definitiva de Zona Franca con origen en Compras Locales, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1100.000",
+        "description": "Exportación Definitiva, Exportación Definitiva de Envíos de Socorro, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1200.000",
+        "description": "Exportación Definitiva, Exportación Definitiva de Envíos Postales, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1300.000",
+        "description": "Exportación Definitiva, Exportación Definitiva Envíos que requieren despacho urgente, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1400.000",
+        "description": "Exportación Definitiva, Exportación Definitiva Courier, Régimen Común"
+    },
+    {
+        "orderCode": "EX-1.1400.011",
+        "description": "Exportación Definitiva, Exportación Definitiva Courier, Muestras Sin Valor Comercial"
+    },
+    {
+        "orderCode": "EX-1.1400.012",
+        "description": "Exportación Definitiva, Exportación Definitiva Courier, Material Publicitario"
+    },
+    {
+        "orderCode": "EX-1.1400.017",
+        "description": "Exportación Definitiva, Exportación Definitiva Courier, Declaración de Documentos"
+    },
+    {
+        "orderCode": "EX-1.1500.000",
+        "description": "Exportación Definitiva, Exportación Definitiva Menaje de casa, Régimen Común"
+    },
+    {
+        "orderCode": "EX-2.2100.000",
+        "description": "Exportación Temporal, Exportación Temporal para Perfeccionamiento Pasivo, Régimen Común"
+    },
+    {
+        "orderCode": "EX-2.2200.000",
+        "description": "Exportación Temporal, Exportación Temporal con Reimportación en el mismo estado, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3050.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Importación Temporal, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3051.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Tiendas Libres, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3052.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal para Perfeccionamiento Activo, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3053.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3054.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Régimen de Zona Franca, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3055.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal para Perfeccionamiento Activo con Garantía, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3056.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3056.057",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Remisión entre Usuarios Directos del Mismo Parque de Servicios"
+    },
+    {
+        "orderCode": "EX-3.3056.058",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Remisión entre Usuarios Directos de Diferente Parque de Servicios"
+    },
+    {
+        "orderCode": "EX-3.3056.072",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Decreto 738 Eléctricos e Híbridos"
+    },
+    {
+        "orderCode": "EX-3.3057.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3057.057",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Remisión entre Usuarios Directos del Mismo Parque de Servicios"
+    },
+    {
+        "orderCode": "EX-3.3057.058",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Remisión entre Usuarios Directos de Diferente Parque de Servicios"
+    },
+    {
+        "orderCode": "EX-3.3058.033",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Centro Internacional de llamadas (Call Center)"
+    },
+    {
+        "orderCode": "EX-3.3058.036",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación y Mantenimiento de Embarcaciones Marítimas LSI"
+    },
+    {
+        "orderCode": "EX-3.3058.037",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación y Mantenimiento de Aeronaves LSI"
+    },
+    {
+        "orderCode": "EX-3.3058.043",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación y Mantenimiento de Contenedores LSI"
+    },
+    {
+        "orderCode": "EX-3.3059.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Reparación de Equipo Tecnológico Parque de Servicios, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3059.057",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Reparación de Equipo Tecnológico Parque de Servicios, Remisión entre Usuarios Directos del Mismo Parque de Servicios"
+    },
+    {
+        "orderCode": "EX-3.3059.058",
+        "description": "Re-Exportación, Reexportación Proveniente de Admisión Temporal Reparación de Equipo Tecnológico Parque de Servicios, Remisión entre Usuarios Directos de Diferente Parque de Servicios"
+    },
+    {
+        "orderCode": "EX-3.3070.000",
+        "description": "Re-Exportación, Reexportación Proveniente de Depósito, Régimen Común"
+    },
+    {
+        "orderCode": "EX-3.3070.072",
+        "description": "Re-Exportación, Reexportación Proveniente de Depósito, Decreto 738 Eléctricos e Híbridos"
+    }
+]

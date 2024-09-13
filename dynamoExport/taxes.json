@@ -1,0 +1,198 @@
+[
+    {
+        "code": "20",
+        "description": "Impuesto al Valor Agregado 13%"
+    },
+    {
+        "code": "C3",
+        "description": "Impuesto al Valor Agregado (exportaciones) 0%"
+    },
+    {
+        "code": "59",
+        "description": "Turismo: por alojamiento (5%)"
+    },
+    {
+        "code": "71",
+        "description": "Turismo: salida del país por vía aérea $7.00"
+    },
+    {
+        "code": "D1",
+        "description": "FOVIAL ($0.20 Ctvs. por galón)"
+    },
+    {
+        "code": "C8",
+        "description": "COTRANS ($0.10 Ctvs. por galón)"
+    },
+    {
+        "code": "D5",
+        "description": "Otras tasas casos especiales"
+    },
+    {
+        "code": "D4",
+        "description": "Otros impuestos casos especiales"
+    },
+    {
+        "code": "A8",
+        "description": "Impuesto Especial al Combustible (0%, 0.5%, 1%)"
+    },
+    {
+        "code": "57",
+        "description": "Impuesto industria de Cemento"
+    },
+    {
+        "code": "90",
+        "description": "Impuesto especial a la primera matrícula"
+    },
+    {
+        "code": "D4",
+        "description": "Otros impuestos casos especiales"
+    },
+    {
+        "code": "D5",
+        "description": "Otras tasas casos especiales"
+    },
+    {
+        "code": "A6",
+        "description": "Impuesto ad-valorem, armas de fuego, municiones explosivas y artículos similares"
+    },
+    {
+        "code": "C5",
+        "description": "Impuesto ad-valorem por diferencial de precios de bebidas alcohólicas (8%)"
+    },
+    {
+        "code": "C6",
+        "description": "Impuesto ad-valorem por diferencial de precios al tabaco cigarrillos (39%)"
+    },
+    {
+        "code": "C7",
+        "description": "Impuesto ad-valorem por diferencial de precios al tabaco cigarros (100%)"
+    },
+    {
+        "code": "19",
+        "description": "Fabricante de Bebidas Gaseosas, Isotónicas, Deportivas, Fortificantes, Energizante o Estimulante"
+    },
+    {
+        "code": "28",
+        "description": "Importador de Bebidas Gaseosas, Isotónicas, Deportivas, Fortificantes, Energizante o Estimulante"
+    },
+    {
+        "code": "31",
+        "description": "Detallistas o Expendedores de Bebidas Alcohólicas"
+    },
+    {
+        "code": "32",
+        "description": "Fabricante de Cerveza"
+    },
+    {
+        "code": "33",
+        "description": "Importador de Cerveza"
+    },
+    {
+        "code": "34",
+        "description": "Fabricante de Productos de Tabaco"
+    },
+    {
+        "code": "35",
+        "description": "Importador de Productos de Tabaco"
+    },
+    {
+        "code": "36",
+        "description": "Fabricante de Armas de Fuego, Municiones y Artículos Similares"
+    },
+    {
+        "code": "37",
+        "description": "Importador de Arma de Fuego, Munición y Artículos Similares"
+    },
+    {
+        "code": "38",
+        "description": "Fabricante de Explosivos"
+    },
+    {
+        "code": "39",
+        "description": "Importador de Explosivos"
+    },
+    {
+        "code": "42",
+        "description": "Fabricante de Productos Pirotécnicos"
+    },
+    {
+        "code": "43",
+        "description": "Importador de Productos Pirotécnicos"
+    },
+    {
+        "code": "44",
+        "description": "Productor de Tabaco"
+    },
+    {
+        "code": "50",
+        "description": "Distribuidor de Bebidas Gaseosas, Isotónicas, Deportivas, Fortificantes, Energizante o Estimulante"
+    },
+    {
+        "code": "51",
+        "description": "Bebidas Alcohólicas"
+    },
+    {
+        "code": "52",
+        "description": "Cerveza"
+    },
+    {
+        "code": "53",
+        "description": "Productos del Tabaco"
+    },
+    {
+        "code": "54",
+        "description": "Bebidas Carbonatadas o Gaseosas Simples o Endulzadas"
+    },
+    {
+        "code": "55",
+        "description": "Otros Específicos"
+    },
+    {
+        "code": "58",
+        "description": "Alcohol"
+    },
+    {
+        "code": "77",
+        "description": "Importador de Jugos, Néctares, Bebidas con Jugo y Refrescos"
+    },
+    {
+        "code": "78",
+        "description": "Distribuidor de Jugos, Néctares, Bebidas con Jugo y Refrescos"
+    },
+    {
+        "code": "79",
+        "description": "Sobre Llamadas Telefónicas Provenientes del Ext."
+    },
+    {
+        "code": "85",
+        "description": "Detallista de Jugos, Néctares, Bebidas con Jugo y Refrescos"
+    },
+    {
+        "code": "86",
+        "description": "Fabricante de Preparaciones Concentradas o en Polvo para la Elaboración de Bebidas"
+    },
+    {
+        "code": "91",
+        "description": "Fabricante de Jugos, Néctares, Bebidas con Jugo y Refrescos"
+    },
+    {
+        "code": "92",
+        "description": "Importador de Preparaciones Concentradas o en Polvo para la Elaboración de Bebidas"
+    },
+    {
+        "code": "A1",
+        "description": "Específicos y Ad-Valorem"
+    },
+    {
+        "code": "A5",
+        "description": "Bebidas Gaseosas, Isotónicas, Deportivas, Fortificantes, Energizantes o Estimulantes"
+    },
+    {
+        "code": "A7",
+        "description": "Alcohol Etílico"
+    },
+    {
+        "code": "A9",
+        "description": "Sacos Sintéticos"
+    }
+]

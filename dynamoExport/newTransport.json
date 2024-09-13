@@ -1,0 +1,28 @@
+[
+    {
+        "constantCode": 1,
+        "code": 2,
+        "description": "Aéreo"
+    },
+    {
+        "constantCode": 1,
+        "code": 3,
+        "description": "Maritimo"
+    },
+    {
+        "constantCode": 1,
+        "code": 4,
+        "description": "Férreo"
+    },
+    {
+        "constantCode": 1,
+        "code": 5,
+        "description": "Multimodal"
+    },
+    {
+        "constantCode": 1,
+        "code": 6,
+        "description": "Correo",
+        "delete": true
+    }
+]

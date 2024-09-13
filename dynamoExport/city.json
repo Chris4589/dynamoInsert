@@ -1,0 +1,1799 @@
+[
+  {
+    "code": "00",
+    "description": "Otro País",
+    "stateCode": "00"
+  },
+  {
+    "code": "01",
+    "description": "AHUACHAPÁN",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "APANECA",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "ATIQUIZAYA",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CONCEPCIÓN DE ATACO",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "EL REFUGIO",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "GUAYMANGO",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "JUJUTLA",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "SAN FRANCISCO MENÉNDEZ",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "SAN LORENZO",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "SAN PEDRO PUXTLA",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "TACUBA",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "TURÍN",
+    "stateCode": "01",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "AHUACHAPAN NORTE",
+    "stateCode": "01"
+  },
+  {
+    "code": "14",
+    "description": "AHUACHAPAN CENTRO",
+    "stateCode": "01"
+  },
+  {
+    "code": "15",
+    "description": "AHUACHAPAN SUR",
+    "stateCode": "01"
+  },
+  {
+    "code": "01",
+    "description": "CANDELARIA DE LA FRONTERA",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "COATEPEQUE",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "CHALCHUAPA",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "EL CONGO",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "EL PORVENIR",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "MASAHUAT",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "METAPÁN",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "SAN ANTONIO PAJONAL",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "SAN SEBASTIÁN SALITRILLO",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "SANTA ANA",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "STA ROSA GUACHI",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "STGO D LA FRONT",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "TEXISTEPEQUE",
+    "stateCode": "02",
+    "delete": true
+  },
+  {
+    "code": "01",
+    "description": "ACAJUTLA",
+    "stateCode": "03",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SANTA ANA NORTE",
+    "stateCode": "02"
+  },
+  {
+    "code": "15",
+    "description": "SANTA ANA CENTRO",
+    "stateCode": "02"
+  },
+  {
+    "code": "16",
+    "description": "SANTA ANA ESTE",
+    "stateCode": "02"
+  },
+  {
+    "code": "17",
+    "description": "SANTA ANA OESTE",
+    "stateCode": "02"
+  },
+  {
+    "code": "02",
+    "description": "ARMENIA",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "03",
+    "description": "CALUCO",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "04",
+    "description": "CUISNAHUAT",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "05",
+    "description": "STA I ISHUATAN",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "06",
+    "description": "IZALCO",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "07",
+    "description": "JUAYÚA",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "08",
+    "description": "NAHUIZALCO",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "09",
+    "description": "NAHULINGO",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "10",
+    "description": "SALCOATITÁN",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "11",
+    "description": "SAN ANTONIO DEL MONTE",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "12",
+    "description": "SAN JULIÁN",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "13",
+    "description": "STA C MASAHUAT",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "14",
+    "description": "SANTO DOMINGO GUZMÁN",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "15",
+    "description": "SONSONATE",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "16",
+    "description": "SONZACATE",
+    "stateCode": "03",
+    "delete":true
+  },
+  {
+    "code": "17",
+    "description": "SONSONATE NORTE",
+    "stateCode": "03"
+  },
+  {
+    "code": "18",
+    "description": "SONSONATE CENTRO",
+    "stateCode": "03"
+  },
+  {
+    "code": "19",
+    "description": "SONSONATE ESTE",
+    "stateCode": "03"
+  },
+  {
+    "code": "20",
+    "description": "SONSONATE OESTE",
+    "stateCode": "03"
+  },
+  {
+    "code": "01",
+    "description": "AGUA CALIENTE",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "ARCATAO",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "AZACUALPA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CITALÁ",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "COMALAPA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "CONCEPCIÓN QUEZALTEPEQUE",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "CHALATENANGO",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "DULCE NOM MARÍA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "EL CARRIZAL",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "EL PARAÍSO",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "LA LAGUNA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "LA PALMA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "LA REINA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "LAS VUELTAS",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "NOMBRE DE JESUS",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "NVA CONCEPCIÓN",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "NUEVA TRINIDAD",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "OJOS DE AGUA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "POTONICO",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "SAN ANT LA CRUZ",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "21",
+    "description": "SAN ANT RANCHOS",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "22",
+    "description": "SAN FERNANDO",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "23",
+    "description": "SAN FRANCISCO LEMPA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "24",
+    "description": "SAN FRANCISCO MORAZÁN",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "25",
+    "description": "SAN IGNACIO",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "26",
+    "description": "SAN I LABRADOR",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "27",
+    "description": "SAN J CANCASQUE",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "28",
+    "description": "SAN JOSE FLORES",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "29",
+    "description": "SAN LUIS CARMEN",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "30",
+    "description": "SN MIG MERCEDES",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "31",
+    "description": "SAN RAFAEL",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "32",
+    "description": "SANTA RITA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "33",
+    "description": "TEJUTLA",
+    "stateCode": "04",
+    "delete": true
+  },
+  {
+    "code": "34",
+    "description": "CHALATENANGO NORTE",
+    "stateCode": "04"
+  },
+  {
+    "code": "35",
+    "description": "CHALATENANGO CENTRO",
+    "stateCode": "04"
+  },
+  {
+    "code": "36",
+    "description": "CHALATENANGO SUR",
+    "stateCode": "04"
+  },
+  {
+    "code": "01",
+    "description": "ANTGO CUSCATLÁN",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "CIUDAD ARCE",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "COLON",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "COMASAGUA",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "CHILTIUPAN",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "HUIZÚCAR",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "JAYAQUE",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "JICALAPA",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "LA LIBERTAD",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "NUEVO CUSCATLÁN",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "SANTA TECLA",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "QUEZALTEPEQUE",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "SACACOYO",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SN J VILLANUEVA",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "SAN JUAN OPICO",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "SAN MATÍAS",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "SAN P TACACHICO",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "TAMANIQUE",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "TALNIQUE",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "TEOTEPEQUE",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "21",
+    "description": "TEPECOYO",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "22",
+    "description": "ZARAGOZA",
+    "stateCode": "05",
+    "delete": true
+  },
+  {
+    "code": "28",
+    "description": "LA LIBERTAD SUR",
+    "stateCode": "05"
+  },
+  {
+    "code": "23",
+    "description": "LA LIBERTAD NORTE",
+    "stateCode": "05"
+  },
+  {
+    "code": "24",
+    "description": "LA LIBERTAD CENTRO",
+    "stateCode": "05"
+  },
+  {
+    "code": "25",
+    "description": "LA LIBERTAD OESTE",
+    "stateCode": "05"
+  },
+  {
+    "code": "26",
+    "description": "LA LIBERTAD ESTE",
+    "stateCode": "05"
+  },
+  {
+    "code": "27",
+    "description": "LA LIBERTAD COSTA",
+    "stateCode": "05"
+  },
+  {
+    "code": "01",
+    "description": "AGUILARES",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "APOPA",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "AYUTUXTEPEQUE",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CUSCATANCINGO",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "EL PAISNAL",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "GUAZAPA",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "ILOPANGO",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "MEJICANOS",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "NEJAPA",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "PANCHIMALCO",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "ROSARIO DE MORA",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "SAN MARCOS",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "SAN MARTIN",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SAN SALVADOR",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "STG TEXACUANGOS",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "SANTO TOMAS",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "SOYAPANGO",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "TONACATEPEQUE",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "CIUDAD DELGADO",
+    "stateCode": "06",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "SAN SALVADOR NORTE",
+    "stateCode": "06"
+  },
+  {
+    "code": "21",
+    "description": "SAN SALVADOR OESTE",
+    "stateCode": "06"
+  },
+  {
+    "code": "22",
+    "description": "SAN SALVADOR ESTE",
+    "stateCode": "06"
+  },
+  {
+    "code": "23",
+    "description": "SAN SALVADOR CENTRO",
+    "stateCode": "06"
+  },
+  {
+    "code": "24",
+    "description": "SAN SALVADOR SUR",
+    "stateCode": "06"
+  },
+  {
+    "code": "01",
+    "description": "CANDELARIA",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "COJUTEPEQUE",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "EL CARMEN",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "EL ROSARIO",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "MONTE SAN JUAN",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "ORAT CONCEPCIÓN",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "SAN B PERULAPIA",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "SAN CRISTÓBAL",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "SAN J GUAYABAL",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "SAN P PERULAPÁN",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "SAN RAF CEDROS",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "SAN RAMON",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "STA C ANALQUITO",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "STA C MICHAPA",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "SUCHITOTO",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "TENANCINGO",
+    "stateCode": "07",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "CUSCATLAN NORTE",
+    "stateCode": "07"
+  },
+  {
+    "code": "18",
+    "description": "CUSCATLAN SUR",
+    "stateCode": "07"
+  },
+  {
+    "code": "01",
+    "description": "CUYULTITÁN",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "EL ROSARIO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "JERUSALÉN",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "MERCED LA CEIBA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "OLOCUILTA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "PARAÍSO OSORIO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "SN ANT MASAHUAT",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "SAN EMIGDIO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "SN FCO CHINAMEC",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "SAN J NONUALCO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "SAN JUAN TALPA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "SAN JUAN TEPEZONTES",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "SAN LUIS TALPA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SAN MIGUEL TEPEZONTES",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "SAN PEDRO MASAHUAT",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "SAN PEDRO NONUALCO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "SAN R OBRAJUELO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "STA MA OSTUMA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "STGO NONUALCO",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "TAPALHUACA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "21",
+    "description": "ZACATECOLUCA",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "22",
+    "description": "SN LUIS LA HERR",
+    "stateCode": "08",
+    "delete": true
+  },
+  {
+    "code": "23",
+    "description": "LA PAZ OESTE",
+    "stateCode": "08"
+  },
+  {
+    "code": "24",
+    "description": "LA PAZ CENTRO",
+    "stateCode": "08"
+  },
+  {
+    "code": "25",
+    "description": "LA PAZ ESTE",
+    "stateCode": "08"
+  },
+  {
+    "code": "01",
+    "description": "CINQUERA",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "GUACOTECTI",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "ILOBASCO",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "JUTIAPA",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "SAN ISIDRO",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "SENSUNTEPEQUE",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "TEJUTEPEQUE",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "VICTORIA",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "DOLORES",
+    "stateCode": "09",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "CABAÑAS OESTE",
+    "stateCode": "09"
+  },
+  {
+    "code": "11",
+    "description": "CABAÑAS ESTE",
+    "stateCode": "09"
+  },
+  {
+    "code": "01",
+    "description": "APASTEPEQUE",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "GUADALUPE",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "SAN CAY ISTEPEQ",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "SANTA CLARA",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "SANTO DOMINGO",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "SN EST CATARINA",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "SAN ILDEFONSO",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "SAN LORENZO",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "SAN SEBASTIÁN",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "SAN VICENTE",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "TECOLUCA",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "TEPETITÁN",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "VERAPAZ",
+    "stateCode": "10",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SAN VICENTE NORTE",
+    "stateCode": "10"
+  },
+  {
+    "code": "15",
+    "description": "SAN VICENTE SUR",
+    "stateCode": "10"
+  },
+  {
+    "code": "01",
+    "description": "ALEGRÍA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "BERLÍN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "CALIFORNIA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CONCEP BATRES",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "EL TRIUNFO",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "EREGUAYQUÍN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "ESTANZUELAS",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "JIQUILISCO",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "JUCUAPA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "JUCUARÁN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "MERCEDES UMAÑA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "NUEVA GRANADA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "OZATLÁN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "PTO EL TRIUNFO",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "SAN AGUSTÍN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "SN BUENAVENTURA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "SAN DIONISIO",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "SANTA ELENA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "SAN FCO JAVIER",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "SANTA MARÍA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "21",
+    "description": "STGO DE MARÍA",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "22",
+    "description": "TECAPÁN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "23",
+    "description": "USULUTÁN",
+    "stateCode": "11",
+    "delete": true
+  },
+  {
+    "code": "24",
+    "description": "USULUTAN NORTE",
+    "stateCode": "11"
+  },
+  {
+    "code": "25",
+    "description": "USULUTAN ESTE",
+    "stateCode": "11"
+  },
+  {
+    "code": "26",
+    "description": "USULUTAN OESTE",
+    "stateCode": "11"
+  },
+  {
+    "code": "01",
+    "description": "CAROLINA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "CIUDAD BARRIOS",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "COMACARÁN",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CHAPELTIQUE",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "CHINAMECA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "CHIRILAGUA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "EL TRANSITO",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "LOLOTIQUE",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "MONCAGUA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "NUEVA GUADALUPE",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "NVO EDÉN S JUAN",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "QUELEPA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "SAN ANT D MOSCO",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SAN GERARDO",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "SAN JORGE",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "SAN LUIS REINA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "SAN MIGUEL",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "SAN RAF ORIENTE",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "SESORI",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "ULUAZAPA",
+    "stateCode": "12",
+    "delete": true
+  },
+  {
+    "code": "21",
+    "description": "SAN MIGUEL NORTE",
+    "stateCode": "12"
+  },
+  {
+    "code": "22",
+    "description": "SAN MIGUEL CENTRO",
+    "stateCode": "12"
+  },
+  {
+    "code": "23",
+    "description": "SAN MIGUEL OESTE",
+    "stateCode": "12"
+  },
+  {
+    "code": "01",
+    "description": "ARAMBALA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "CACAOPERA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "CORINTO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CHILANGA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "DELIC DE CONCEP",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "EL DIVISADERO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "EL ROSARIO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "GUALOCOCTI",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "GUATAJIAGUA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "JOATECA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "JOCOAITIQUE",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "JOCORO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "LOLOTIQUILLO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "MEANGUERA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "OSICALA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "PERQUÍN",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "SAN CARLOS",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "SAN FERNANDO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "SAN FCO GOTERA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "20",
+    "description": "SAN ISIDRO",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "21",
+    "description": "SAN SIMÓN",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "22",
+    "description": "SENSEMBRA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "23",
+    "description": "SOCIEDAD",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "24",
+    "description": "TOROLA",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "25",
+    "description": "YAMABAL",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "26",
+    "description": "YOLOAIQUÍN",
+    "stateCode": "13",
+    "delete": true
+  },
+  {
+    "code": "27",
+    "description": "MORAZAN NORTE",
+    "stateCode": "13"
+  },
+  {
+    "code": "28",
+    "description": "MORAZAN SUR",
+    "stateCode": "13"
+  },
+  {
+    "code": "01",
+    "description": "ANAMOROS",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "02",
+    "description": "BOLÍVAR",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "03",
+    "description": "CONCEP DE OTE",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "04",
+    "description": "CONCHAGUA",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "05",
+    "description": "EL CARMEN",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "06",
+    "description": "EL SAUCE",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "07",
+    "description": "INTIPUCÁ",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "08",
+    "description": "LA UNIÓN",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "09",
+    "description": "LISLIQUE",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "10",
+    "description": "MEANG DEL GOLFO",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "11",
+    "description": "NUEVA ESPARTA",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "12",
+    "description": "PASAQUINA",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "13",
+    "description": "POLORÓS",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "14",
+    "description": "SAN ALEJO",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "15",
+    "description": "SAN JOSE",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "16",
+    "description": "SANTA ROSA LIMA",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "17",
+    "description": "YAYANTIQUE",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "18",
+    "description": "YUCUAIQUÍN",
+    "stateCode": "14",
+    "delete": true
+  },
+  {
+    "code": "19",
+    "description": "LA UNION NORTE",
+    "stateCode": "14"
+  },
+  {
+    "code": "20",
+    "description": "LA UNION SUR",
+    "stateCode": "14"
+  }
+]

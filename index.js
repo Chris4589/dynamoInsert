@@ -3,9 +3,10 @@ const AWS = require('aws-sdk');
 const path = require('path');
 const config = require('config');
 
+AWS.config.update({ region: "us-east-1" });
 const dynamodb = new AWS.DynamoDB.DocumentClient();
 
-//export AWS_PROFILE=felpy
+//export AWS_PROFILE=felsv
 //export AWS_REGION=us-east-1
 
 const insertData = () => {
@@ -17,16 +18,54 @@ const insertData = () => {
     }
 
     const tmp = path.join(__dirname, config.get('filename'));
-    const output = fs.readFileSync(tmp, { encoding:'utf8', flag:'r' })
+    const output = fs.readFileSync(tmp, { encoding:'utf8', flag:'r' });
 
     JSON.parse(output).forEach((item) => {
         let putRequest = {
             TableName: config.get('tableName'),
-            Item: {
-                ...item
-            }
         };
-        dynamodb.put(putRequest)
+        
+        if (new Boolean(item.delete) == true) {
+            putRequest.Key = {};
+            /*putRequest.Key = {
+                constantCode: item.constantCode,
+                code: item.code.toString()
+            };*/
+            if (item.constantCode) {
+                if (typeof item.constantCode === 'number') {
+                    putRequest.Key.constantCode = item.constantCode;
+                } else if (typeof item.constantCode === 'string') {
+                    putRequest.Key.constantCode = item.constantCode.toString();
+                }
+            }
+
+            if (item.code) {
+                if (typeof item.code === 'number') {
+                    putRequest.Key.code = item.code;
+                } else if (typeof item.code === 'string') {
+                    putRequest.Key.code = item.code.toString();
+                }
+            }
+
+            dynamodb.delete(putRequest)
+            .promise()
+            .then((data) => {
+                console.info('successfully delete on dynamodb', data)
+            })
+            .catch((err) => {
+                console.info('failed deleting data on dynamodb', err)
+            });
+            
+        } else {
+            putRequest.Item = {
+                ...item,
+            };
+            if (new Boolean(item.orderCode) == true) {
+                putRequest.Item.searchField = `${item.orderCode}-${item.description.toUpperCase()}`;
+            } else if (new Boolean(item.code) == true) {
+                putRequest.Item.searchField = `${item.code}-${item.description.toUpperCase()}`;
+            }
+            dynamodb.put(putRequest)
             .promise()
             .then((data) => {
                 console.info('successfully update to dynamodb', data)
@@ -34,7 +73,21 @@ const insertData = () => {
             .catch((err) => {
                 console.info('failed adding data dynamodb', err)
             });
-    })
+        }
+    });
 };
 
 insertData();
+
+
+
+/**
+    Item: {
+                ...item,
+                //code: +item.code,
+                //constantCode: 1,
+                //searchField: `${item.code}-${item.description.toUpperCase()}` 
+                code: 1,
+                searchField: `${item.orderCode}-${item.description.toUpperCase()}`
+            }
+ */

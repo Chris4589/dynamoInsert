@@ -1,0 +1,1247 @@
+[
+    {
+        "code": 1,
+        "orderCode": "Al",
+        "description": "ANGUILA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AQ",
+        "description": "Antártica"
+    },
+    {
+        "code": 1,
+        "orderCode": "TC",
+        "description": "ISLAS TURCAS Y CAICOS"
+    },
+    {
+        "code": 1,
+        "orderCode": "LT",
+        "description": "LITUANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AF",
+        "description": "AFGANISTÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "AL",
+        "description": "ALBANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AD",
+        "description": "ANDORRA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AO",
+        "description": "ANGOLA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AG",
+        "description": "ANTIGUA Y BARBUDA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SA",
+        "description": "ARABIA SAUDITA"
+    },
+    {
+        "code": 1,
+        "orderCode": "DZ",
+        "description": "ARGELIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AR",
+        "description": "ARGENTINA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AU",
+        "description": "AUSTRALIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AT",
+        "description": "AUSTRIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "BD",
+        "description": "BANGLADESH"
+    },
+    {
+        "code": 1,
+        "orderCode": "BH",
+        "description": "BAHRÉIN"
+    },
+    {
+        "code": 1,
+        "orderCode": "BB",
+        "description": "BARBADOS"
+    },
+    {
+        "code": 1,
+        "orderCode": "BE",
+        "description": "BÉLGICA"
+    },
+    {
+        "code": 1,
+        "orderCode": "BZ",
+        "description": "BELICE"
+    },
+    {
+        "code": 1,
+        "orderCode": "BJ",
+        "description": "BENÍN"
+    },
+    {
+        "code": 1,
+        "orderCode": "MM",
+        "description": "Myanmar"
+    },
+    {
+        "code": 1,
+        "orderCode": "BO",
+        "description": "BOLIVIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "BW",
+        "description": "BOTSWANA"
+    },
+    {
+        "code": 1,
+        "orderCode": "BR",
+        "description": "BRASIL"
+    },
+    {
+        "code": 1,
+        "orderCode": "BN",
+        "description": "BRUNÉI"
+    },
+    {
+        "code": 1,
+        "orderCode": "BI",
+        "description": "BURUNDI"
+    },
+    {
+        "code": 1,
+        "orderCode": "BT",
+        "description": "BUTÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "CV",
+        "description": "CABO VERDE"
+    },
+    {
+        "code": 1,
+        "orderCode": "KH",
+        "description": "CAMBOYA"
+    },
+    {
+        "code": 1,
+        "orderCode": "CM",
+        "description": "CAMERÚN"
+    },
+    {
+        "code": 1,
+        "orderCode": "CA",
+        "description": "CANADÁ"
+    },
+    {
+        "code": 1,
+        "orderCode": "CF",
+        "description": "Centroafricana, República"
+    },
+    {
+        "code": 1,
+        "orderCode": "CO",
+        "description": "COLOMBIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "KM",
+        "description": "COMORAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "CG",
+        "description": "CONGO"
+    },
+    {
+        "code": 1,
+        "orderCode": "CD",
+        "description": "Republica Democratica del"
+    },
+    {
+        "code": 1,
+        "orderCode": "KP",
+        "description": "Rep. Democratica popular de"
+    },
+    {
+        "code": 1,
+        "orderCode": "KR",
+        "description": "Republica de Corea"
+    },
+    {
+        "code": 1,
+        "orderCode": "CI",
+        "description": "COSTA DE MARFIL"
+    },
+    {
+        "code": 1,
+        "orderCode": "CR",
+        "description": "COSTA RICA"
+    },
+    {
+        "code": 1,
+        "orderCode": "CU",
+        "description": "CUBA"
+    },
+    {
+        "code": 1,
+        "orderCode": "TD",
+        "description": "CHAD"
+    },
+    {
+        "code": 1,
+        "orderCode": "CL",
+        "description": "CHILE"
+    },
+    {
+        "code": 1,
+        "orderCode": "CN",
+        "description": "CHINA"
+    },
+    {
+        "code": 1,
+        "orderCode": "CY",
+        "description": "CHIPRE"
+    },
+    {
+        "code": 1,
+        "orderCode": "DK",
+        "description": "DINAMARCA"
+    },
+    {
+        "code": 1,
+        "orderCode": "DM",
+        "description": "DOMINICA"
+    },
+    {
+        "code": 1,
+        "orderCode": "DO",
+        "description": "República Dominicana"
+    },
+    {
+        "code": 1,
+        "orderCode": "EC",
+        "description": "ECUADOR"
+    },
+    {
+        "code": 1,
+        "orderCode": "AE",
+        "description": "Emiratos Árabes Unidos"
+    },
+    {
+        "code": 1,
+        "orderCode": "ES",
+        "description": "ESPAÑA"
+    },
+    {
+        "code": 1,
+        "orderCode": "US",
+        "description": "ESTADOS UNIDOS"
+    },
+    {
+        "code": 1,
+        "orderCode": "ET",
+        "description": "ETIOPÍA"
+    },
+    {
+        "code": 1,
+        "orderCode": "FJ",
+        "description": "FIJI"
+    },
+    {
+        "code": 1,
+        "orderCode": "PH",
+        "description": "FILIPINAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "FI",
+        "description": "FINLANDIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "FR",
+        "description": "FRANCIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GA",
+        "description": "GABÓN"
+    },
+    {
+        "code": 1,
+        "orderCode": "GM",
+        "description": "GAMBIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GH",
+        "description": "GHANA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GI",
+        "description": "GIBRALTAR"
+    },
+    {
+        "code": 1,
+        "orderCode": "GR",
+        "description": "GRECIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GR",
+        "description": "Granada"
+    },
+    {
+        "code": 1,
+        "orderCode": "GT",
+        "description": "GUATEMALA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GN",
+        "description": "GUINEA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GY",
+        "description": "GUYANA"
+    },
+    {
+        "code": 1,
+        "orderCode": "HT",
+        "description": "HAITÍ"
+    },
+    {
+        "code": 1,
+        "orderCode": "NL",
+        "description": "Paises Bajos"
+    },
+    {
+        "code": 1,
+        "orderCode": "HN",
+        "description": "HONDURAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "HK",
+        "description": "HONG KONG"
+    },
+    {
+        "code": 1,
+        "orderCode": "HU",
+        "description": "HUNGRÍA"
+    },
+    {
+        "code": 1,
+        "orderCode": "ID",
+        "description": "INDONESIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "IQ",
+        "description": "IRAK"
+    },
+    {
+        "code": 1,
+        "orderCode": "IR",
+        "description": "Republica Islamica de Iran"
+    },
+    {
+        "code": 1,
+        "orderCode": "IE",
+        "description": "IRLANDA"
+    },
+    {
+        "code": 1,
+        "orderCode": "BV",
+        "description": "Isla Bouvet"
+    },
+    {
+        "code": 1,
+        "orderCode": "IS",
+        "description": "ISLANDIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SB",
+        "description": "Salomón, Islas"
+    },
+    {
+        "code": 1,
+        "orderCode": "IL",
+        "description": "ISRAEL"
+    },
+    {
+        "code": 1,
+        "orderCode": "IT",
+        "description": "ITALIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "JM",
+        "description": "JAMAICA"
+    },
+    {
+        "code": 1,
+        "orderCode": "JP",
+        "description": "JAPÓN"
+    },
+    {
+        "code": 1,
+        "orderCode": "JO",
+        "description": "JORDANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "KE",
+        "description": "KENIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "KI",
+        "description": "KIRIBATI"
+    },
+    {
+        "code": 1,
+        "orderCode": "KW",
+        "description": "KUWAIT"
+    },
+    {
+        "code": 1,
+        "orderCode": "LA",
+        "description": "Laos, Republica Democratica"
+    },
+    {
+        "code": 1,
+        "orderCode": "LS",
+        "description": "LESOTHO"
+    },
+    {
+        "code": 1,
+        "orderCode": "LB",
+        "description": "LÍBANO"
+    },
+    {
+        "code": 1,
+        "orderCode": "LR",
+        "description": "LIBERIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "LY",
+        "description": "LIBIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "LI",
+        "description": "LIECHTENSTEIN"
+    },
+    {
+        "code": 1,
+        "orderCode": "LU",
+        "description": "LUXEMBURGO"
+    },
+    {
+        "code": 1,
+        "orderCode": "MG",
+        "description": "MADAGASCAR"
+    },
+    {
+        "code": 1,
+        "orderCode": "MY",
+        "description": "MALASIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "MW",
+        "description": "MALAWI"
+    },
+    {
+        "code": 1,
+        "orderCode": "MV",
+        "description": "MALDIVAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "MT",
+        "description": "MALTA"
+    },
+    {
+        "code": 1,
+        "orderCode": "MA",
+        "description": "MARRUECOS"
+    },
+    {
+        "code": 1,
+        "orderCode": "OM",
+        "description": "OMÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "MU",
+        "description": "MAURICIO"
+    },
+    {
+        "code": 1,
+        "orderCode": "MR",
+        "description": "MAURITANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "MX",
+        "description": "MÉXICO"
+    },
+    {
+        "code": 1,
+        "orderCode": "FM",
+        "description": "MICRONESIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "MC",
+        "description": "MÓNACO"
+    },
+    {
+        "code": 1,
+        "orderCode": "MN",
+        "description": "MONGOLIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "MZ",
+        "description": "MOZAMBIQUE"
+    },
+    {
+        "code": 1,
+        "orderCode": "NR",
+        "description": "NAURU"
+    },
+    {
+        "code": 1,
+        "orderCode": "NP",
+        "description": "NEPAL"
+    },
+    {
+        "code": 1,
+        "orderCode": "NI",
+        "description": "NICARAGUA"
+    },
+    {
+        "code": 1,
+        "orderCode": "NE",
+        "description": "NÍGER"
+    },
+    {
+        "code": 1,
+        "orderCode": "NG",
+        "description": "NIGERIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "NO",
+        "description": "NORUEGA"
+    },
+    {
+        "code": 1,
+        "orderCode": "NC",
+        "description": "Nueva Caledonia"
+    },
+    {
+        "code": 1,
+        "orderCode": "NZ",
+        "description": "Nueva Zelanda"
+    },
+    {
+        "code": 1,
+        "orderCode": "PG",
+        "description": "Papúa, Nueva Guinea"
+    },
+    {
+        "code": 1,
+        "orderCode": "PK",
+        "description": "PAKISTÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "PA",
+        "description": "PANAMÁ"
+    },
+    {
+        "code": 1,
+        "orderCode": "PY",
+        "description": "PARAGUAY"
+    },
+    {
+        "code": 1,
+        "orderCode": "PE",
+        "description": "PERÚ"
+    },
+    {
+        "code": 1,
+        "orderCode": "PL",
+        "description": "POLONIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "QA",
+        "description": "QATAR"
+    },
+    {
+        "code": 1,
+        "orderCode": "GB",
+        "description": "REINO UNIDO"
+    },
+    {
+        "code": 1,
+        "orderCode": "EG",
+        "description": "EGIPTO"
+    },
+    {
+        "code": 1,
+        "orderCode": "RW",
+        "description": "RUANDA"
+    },
+    {
+        "code": 1,
+        "orderCode": "RO",
+        "description": "RUMANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SM",
+        "description": "SAN MARINO"
+    },
+    {
+        "code": 1,
+        "orderCode": "WS",
+        "description": "SAMOA"
+    },
+    {
+        "code": 1,
+        "orderCode": "KN",
+        "description": "San Cristobal y Nieves"
+    },
+    {
+        "code": 1,
+        "orderCode": "LC",
+        "description": "SANTA LUCIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SN",
+        "description": "SENEGAL"
+    },
+    {
+        "code": 1,
+        "orderCode": "ST",
+        "description": "Santo Tomé y Principe"
+    },
+    {
+        "code": 1,
+        "orderCode": "VC",
+        "description": "San Vicente y las Granadinas"
+    },
+    {
+        "code": 1,
+        "orderCode": "SL",
+        "description": "SIERRA LEONA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SG",
+        "description": "SINGAPUR"
+    },
+    {
+        "code": 1,
+        "orderCode": "SY",
+        "description": "SIRIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SC",
+        "description": "SEYCHELLES"
+    },
+    {
+        "code": 1,
+        "orderCode": "SO",
+        "description": "SOMALIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SS",
+        "description": "South Sudan"
+    },
+    {
+        "code": 1,
+        "orderCode": "ZA",
+        "description": "SUDÁFRICA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SD",
+        "description": "SUDÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "SE",
+        "description": "SUECIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "CH",
+        "description": "SUIZA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SR",
+        "description": "SURINAM"
+    },
+    {
+        "code": 1,
+        "orderCode": "LK",
+        "description": "SRI LANKA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SZ",
+        "description": "Swazilandia"
+    },
+    {
+        "code": 1,
+        "orderCode": "TZ",
+        "description": "Tanzania, Republica Unida de"
+    },
+    {
+        "code": 1,
+        "orderCode": "TG",
+        "description": "TOGO"
+    },
+    {
+        "code": 1,
+        "orderCode": "TT",
+        "description": "TRINIDAD TOBAGO"
+    },
+    {
+        "code": 1,
+        "orderCode": "TO",
+        "description": "TONGA"
+    },
+    {
+        "code": 1,
+        "orderCode": "TN",
+        "description": "TÚNEZ"
+    },
+    {
+        "code": 1,
+        "orderCode": "TR",
+        "description": "TURQUÍA"
+    },
+    {
+        "code": 1,
+        "orderCode": "TV",
+        "description": "TUVALU"
+    },
+    {
+        "code": 1,
+        "orderCode": "UG",
+        "description": "UGANDA"
+    },
+    {
+        "code": 1,
+        "orderCode": "UY",
+        "description": "URUGUAY"
+    },
+    {
+        "code": 1,
+        "orderCode": "VA",
+        "description": "VATICANO"
+    },
+    {
+        "code": 1,
+        "orderCode": "VU",
+        "description": "VANUATU"
+    },
+    {
+        "code": 1,
+        "orderCode": "VE",
+        "description": "VENEZUELA"
+    },
+    {
+        "code": 1,
+        "orderCode": "YE",
+        "description": "YEMEN SUR REP"
+    },
+    {
+        "code": 1,
+        "orderCode": "ZM",
+        "description": "ZAMBIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "ZW",
+        "description": "Zimbabue"
+    },
+    {
+        "code": 1,
+        "orderCode": "PR",
+        "description": "PUERTO RICO"
+    },
+    {
+        "code": 1,
+        "orderCode": "BS",
+        "description": "BAHAMAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "BM",
+        "description": "BERMUDAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "MQ",
+        "description": "Martinica e.a."
+    },
+    {
+        "code": 1,
+        "orderCode": "BQ",
+        "description": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+        "code": 1,
+        "orderCode": "TW",
+        "description": "Taiwan, Provincia de China"
+    },
+    {
+        "code": 1,
+        "orderCode": "VG",
+        "description": "ISLAS VÍRGENES BRITÁNICAS"
+    },
+    {
+        "code": 1,
+        "orderCode": "KY",
+        "description": "Caimán, Islas"
+    },
+    {
+        "code": 1,
+        "orderCode": "MK",
+        "description": "MACEDONIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SV",
+        "description": "EL SALVADOR"
+    },
+    {
+        "code": 1,
+        "orderCode": "BG",
+        "description": "BULGARIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "DJ",
+        "description": "DJIBOUTÍ"
+    },
+    {
+        "code": 1,
+        "orderCode": "IN",
+        "description": "INDIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "ML",
+        "description": "MALI"
+    },
+    {
+        "code": 1,
+        "orderCode": "PT",
+        "description": "PORTUGAL"
+    },
+    {
+        "code": 1,
+        "orderCode": "TH",
+        "description": "TAILANDIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "UA",
+        "description": "UCRANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "UZ",
+        "description": "UZBEKISTÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "PS",
+        "description": "PALESTINA"
+    },
+    {
+        "code": 1,
+        "orderCode": "HR",
+        "description": "CROACIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AM",
+        "description": "ARMENIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GE",
+        "description": "GEORGIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "DE",
+        "description": "ALEMANIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "RU",
+        "description": "RUSIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "KZ",
+        "description": "Kazajistán"
+    },
+    {
+        "code": 1,
+        "orderCode": "VN",
+        "description": "VIETNAM"
+    },
+    {
+        "code": 1,
+        "orderCode": "LV",
+        "description": "LETONIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SI",
+        "description": "ESLOVENIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "AZ",
+        "description": "AZERBAIYÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "BY",
+        "description": "BIELORRUSIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GL",
+        "description": "GROENLANDIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GW",
+        "description": "GUINEA-BISSAU"
+    },
+    {
+        "code": 1,
+        "orderCode": "CC",
+        "description": "ISLA COCOS"
+    },
+    {
+        "code": 1,
+        "orderCode": "AX",
+        "description": "ALAND"
+    },
+    {
+        "code": 1,
+        "orderCode": "AW",
+        "description": "ARUBA"
+    },
+    {
+        "code": 1,
+        "orderCode": "ER",
+        "description": "ERITREA"
+    },
+    {
+        "code": 1,
+        "orderCode": "EE",
+        "description": "ESTONIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GP",
+        "description": "GUADALUPE"
+    },
+    {
+        "code": 1,
+        "orderCode": "GF",
+        "description": "GUAYANA FRANCESA"
+    },
+    {
+        "code": 1,
+        "orderCode": "GG",
+        "description": "GUERNSEY"
+    },
+    {
+        "code": 1,
+        "orderCode": "CX",
+        "description": "ISLA NAVIDAD"
+    },
+    {
+        "code": 1,
+        "orderCode": "MP",
+        "description": "ISLAS MARIANAS DEL NORTE"
+    },
+    {
+        "code": 1,
+        "orderCode": "UM",
+        "description": "Islas Ultramarinas de E.E.U.U"
+    },
+    {
+        "code": 1,
+        "orderCode": "JE",
+        "description": "JERSEY"
+    },
+    {
+        "code": 1,
+        "orderCode": "KG",
+        "description": "KIRGUISTÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "YT",
+        "description": "MAYOTTE"
+    },
+    {
+        "code": 1,
+        "orderCode": "MD",
+        "description": "Moldavia, Republica de"
+    },
+    {
+        "code": 1,
+        "orderCode": "ME",
+        "description": "MONTENEGRO"
+    },
+    {
+        "code": 1,
+        "orderCode": "MS",
+        "description": "Montserrat"
+    },
+    {
+        "code": 1,
+        "orderCode": "NF",
+        "description": "ISLA NORFOLK"
+    },
+    {
+        "code": 1,
+        "orderCode": "PF",
+        "description": "POLINESIA FRANCESA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SJ",
+        "description": "SVALBARD Y JAN MAYEN"
+    },
+    {
+        "code": 1,
+        "orderCode": "TJ",
+        "description": "TAYIKISTÁN"
+    },
+    {
+        "code": 1,
+        "orderCode": "IO",
+        "description": "TERRITORIO BRITÁNICO DEL OCÉANO INDICO"
+    },
+    {
+        "code": 1,
+        "orderCode": "TL",
+        "description": "TIMOR ORIENTAL"
+    },
+    {
+        "code": 1,
+        "orderCode": "TK",
+        "description": "TOKELAU"
+    },
+    {
+        "code": 1,
+        "orderCode": "TM",
+        "description": "Turkmenistan"
+    },
+    {
+        "code": 1,
+        "orderCode": "WF",
+        "description": "Wallis y Fortuna, Islas"
+    },
+    {
+        "code": 1,
+        "orderCode": "CZ",
+        "description": "REPUBLICA CHECA"
+    },
+    {
+        "code": 1,
+        "orderCode": "CW",
+        "description": "CURAZAO"
+    },
+    {
+        "code": 1,
+        "orderCode": "BA",
+        "description": "Bosnia-Herzegovina"
+    },
+    {
+        "code": 1,
+        "orderCode": "GQ",
+        "description": "GUINEA ECUATORIAL"
+    },
+    {
+        "code": 1,
+        "orderCode": "IM",
+        "description": "ISLA DE MAN"
+    },
+    {
+        "code": 1,
+        "orderCode": "FK",
+        "description": "Islas Malvinas (Falkland)"
+    },
+    {
+        "code": 1,
+        "orderCode": "PN",
+        "description": "ISLAS PITCAIRN"
+    },
+    {
+        "code": 1,
+        "orderCode": "RS",
+        "description": "SERBIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "TF",
+        "description": "TERRITORIOS AUSTRALES FRANCESES"
+    },
+    {
+        "code": 1,
+        "orderCode": "SK",
+        "description": "ESLOVAQUIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "SX",
+        "description": "Sint Maarten (Dutch part)"
+    },
+    {
+        "code": 1,
+        "orderCode": "GU",
+        "description": "GUAM"
+    },
+    {
+        "code": 1,
+        "orderCode": "CK",
+        "description": "ISLAS COOK"
+    },
+    {
+        "code": 1,
+        "orderCode": "FO",
+        "description": "ISLAS FAROE"
+    },
+    {
+        "code": 1,
+        "orderCode": "GS",
+        "description": "Islas Georgias d. S.-Sandwich d. S."
+    },
+    {
+        "code": 1,
+        "orderCode": "HM",
+        "description": "Islas Heard y McDonald"
+    },
+    {
+        "code": 1,
+        "orderCode": "MH",
+        "description": "ISLAS MARSHALL"
+    },
+    {
+        "code": 1,
+        "orderCode": "VI",
+        "description": "ISLAS VÍRGENES"
+    },
+    {
+        "code": 1,
+        "orderCode": "MO",
+        "description": "MACAO"
+    },
+    {
+        "code": 1,
+        "orderCode": "NA",
+        "description": "NAMIBIA"
+    },
+    {
+        "code": 1,
+        "orderCode": "NU",
+        "description": "NIUE"
+    },
+    {
+        "code": 1,
+        "orderCode": "PW",
+        "description": "PALAOS"
+    },
+    {
+        "code": 1,
+        "orderCode": "RE",
+        "description": "REUNIÓN"
+    },
+    {
+        "code": 1,
+        "orderCode": "EH",
+        "description": "SAHARA OCCIDENTAL"
+    },
+    {
+        "code": 1,
+        "orderCode": "BL",
+        "description": "Saint Barthélemy"
+    },
+    {
+        "code": 1,
+        "orderCode": "MF",
+        "description": "Saint Martin (French part)"
+    },
+    {
+        "code": 1,
+        "orderCode": "AS",
+        "description": "SAMOA AMERICANA"
+    },
+    {
+        "code": 1,
+        "orderCode": "PM",
+        "description": "SAN PEDRO Y MIQUELÓN"
+    },
+    {
+        "code": 1,
+        "orderCode": "SH",
+        "description": "SANTA ELENA"
+    },
+    {
+        "code": 1,
+        "orderCode": "BF",
+        "description": "BURKINA FASO"
+    }
+]

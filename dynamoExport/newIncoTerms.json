@@ -1,0 +1,32 @@
+[
+    {
+        "constantCode": 1,
+        "code": "12",
+        "description": "DAT-Entregado en terminal",
+        "delete": true
+    },
+    {
+        "constantCode": 1,
+        "code": "13",
+        "description": "DAF-Entregada en frontera",
+        "delete": true
+    },
+    {
+        "constantCode": 1,
+        "code": "14",
+        "description": "DES-Entregada sobre duque",
+        "delete": true
+    },
+    {
+        "constantCode": 1,
+        "code": "15",
+        "description": "DEQ-Entregada en muelle",
+        "delete": true
+    },
+    {
+        "constantCode": 1,
+        "code": "16",
+        "description": "DDU- Entregada derechos no pagados",
+        "delete": true
+    }
+]

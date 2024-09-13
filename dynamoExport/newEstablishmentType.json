@@ -1,0 +1,23 @@
+[
+    {
+        "constantCode": 1,
+        "code": "01",
+        "description": "Sucursal"
+    },
+    {
+        "constantCode": 1,
+        "code": "02",
+        "description": "Casa Matriz"
+    },
+    {
+        "constantCode": 1,
+        "code": "07",
+        "description": "Patio"
+    },
+    {
+        "constantCode": 1,
+        "code": "20",
+        "description": "Otro",
+        "delete": true
+    }
+]

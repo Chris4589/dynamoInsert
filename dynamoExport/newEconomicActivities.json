@@ -1,0 +1,52 @@
+[
+    {
+        "constantCode": 1,
+        "code": "46377",
+        "description": "Venta al por mayor de pastas alimenticias, aceites y grasas comestibles vegetal y animal"
+    },
+    {
+        "constantCode": 1,
+        "code": "46484",
+        "description": "Venta de productos farmacéuticos y medicinales"
+    },
+    {
+        "constantCode": 1,
+        "code": "46902",
+        "description": "Venta al por mayor de artículos diversos para consumo humano"
+    },
+    {
+        "constantCode": 1,
+        "code": "47112",
+        "description": "Venta en tiendas de artículos de primera necesidad"
+    },
+    {
+        "constantCode": 1,
+        "code": "53201",
+        "description": "Agencia privada de correo y encomiendas"
+    },
+    {
+        "constantCode": 1,
+        "code": "62020",
+        "description": "Consultorías y gestión de servicios informáticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "70200",
+        "description": "Actividades de consultoría en gestión empresarial"
+    },
+    {
+        "constantCode": 1,
+        "code": "91030",
+        "description": "Actividades de jardines botánicos, zoológicos y de reservas"
+    },
+    {
+        "constantCode": 1,
+        "code": "10002",
+        "description": "Pensionado"
+    },
+    {
+        "constantCode": 1,
+        "code": "10006",
+        "description": "Comerciante"
+    }
+]

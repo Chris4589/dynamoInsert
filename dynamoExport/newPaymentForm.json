@@ -1,0 +1,24 @@
+[
+    {
+        "constantCode": 1,
+        "code": "06",
+        "description": "Vales o Cupones",
+        "delete": true
+    },
+    {
+        "constantCode": 1,
+        "code": "05",
+        "description": "Transferencia-Depósito Bancario"
+    },
+    {
+        "constantCode": 1,
+        "code": "5",
+        "description": "Transferencia-Depósito Bancario"
+    },
+    {
+        "constantCode": 1,
+        "code": "10",
+        "description": "Certificado o tarjeta de regalo",
+        "delete": true
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "code": 1,
+        "orderCode": "EX-2.2400.000",
+        "description": "Traslados Definitivos"
+    },
+    {
+        "code": 1,
+        "orderCode": "EX-3.3071.000",
+        "description": "Reexp. Prov. de Deposito."
+    },
+    {
+        "code": 1,
+        "orderCode": "EX-3.3052.000",
+        "description": "Reexp. Prov. de Adm Temp. para Perfeccionamiento Activo"
+    },
+    {
+        "code": 1,
+        "orderCode": "EX-3.5054.000",
+        "description": "Reexp. Prov. de Régimen de Zona Franca"
+    },
+    {
+        "code": 1,
+        "orderCode": "EX-3.3055.000",
+        "description": "Reexp. Prov.de Adm.Temporal para Perfeccionamiento Activo con Garantia"
+    },
+    {
+        "code": 1,
+        "orderCode": "EX-3.3056.000",
+        "description": "Re-Exp. Prov.de Adm.Temporal Ley de Servi. Internacionales"
+    },
+    {
+        "code": 1,
+        "orderCode": "EX-3.3057.000",
+        "description": "Reexportacion Prov. de Centro de Servicio LS|"
+    }
+]
