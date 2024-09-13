@@ -1,0 +1,13 @@
+dynamoExport/newEstablishmentType.json     ->          felsv_qa_EstablishmentType
+dynamoExport/newState.json     ->          felsv_prod_State
+dynamoExport/newCity.json        ->                 felsv_qa_City (stateCode, code: string)
+dynamoExport/newMeasurament.json->         felsv_qa_MeasurementUnit (constantCode:int, code:int) // se debe modificar tabla y se eliminara la data automaticamente
+dynamoExport/newPaymentForm.json           ->                felsv_qa_FormsPayment
+dynamoExport/newEconomicActivities.json                 ->                  felsv_qa_EconomicActivities
+dynamoExport/countries.json                   ->                      felsv_qa_CountryCoding   reiniciar tabla e insertar
+dynamoExport/fiscal.json              ->                felsv_qa_FiscalPrecinct
+dynamoExport/newRegimen.json                   ->           felsv_qa_RegimenType
+dynamoExport/newTransport.json                   ->           felsv_qa_TransportMode (constantCode: int, code:int
+dynamoExport/newIncoTerms.json            ->            felsv_qa_Incoterms
+
+
