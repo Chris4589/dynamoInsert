@@ -1,4 +1,4 @@
 {
-  "filename": "dynamoExport/newPaymentForm.json",
-  "tableName": "felsv_qa_FormsPayment"
+  "filename": "dynamoExport/newEconomicActivities.json",
+  "tableName": "felsv_qa_EconomicActivities"
 }

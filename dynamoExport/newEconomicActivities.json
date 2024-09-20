@@ -3812,7 +3812,7 @@
     {
         "constantCode": 1,
         "code": "10002",
-        "description": "Jubilado"
+        "description": "Pensionado"
     },
     {
         "constantCode": 1,
@@ -3828,6 +3828,11 @@
         "constantCode": 1,
         "code": "10005",
         "description": "Otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "53201",
+        "description": "Agencia privada de correo y encomiendas"
     },
     {
         "constantCode": 1,
