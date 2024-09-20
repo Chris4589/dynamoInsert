@@ -1,4 +1,4 @@
 {
-  "filename": "dynamoExport/newEstablishmentType.json",
-  "tableName": "felsv_qa_EstablishmentType"
+  "filename": "dynamoExport/newRegimen.json",
+  "tableName": "felsv_qa_RegimenType"
 }

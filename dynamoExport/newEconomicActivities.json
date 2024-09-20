@@ -1,8 +1,1968 @@
 [
     {
         "constantCode": 1,
+        "code": "01111",
+        "description": "Cultivo de cereales excepto arroz y para forrajes"
+    },
+    {
+        "constantCode": 1,
+        "code": "01112",
+        "description": "Cultivo de legumbres"
+    },
+    {
+        "constantCode": 1,
+        "code": "01113",
+        "description": "Cultivo de semillas oleaginosas"
+    },
+    {
+        "constantCode": 1,
+        "code": "01114",
+        "description": "Cultivo de plantas para la preparación de semillas"
+    },
+    {
+        "constantCode": 1,
+        "code": "01119",
+        "description": "Cultivo de otros cereales excepto arroz y forrajeros n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "01120",
+        "description": "Cultivo de arroz"
+    },
+    {
+        "constantCode": 1,
+        "code": "01131",
+        "description": "Cultivo de raíces y tubérculos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01132",
+        "description": "Cultivo de brotes, bulbos, vegetales tubérculos y cultivos similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "01133",
+        "description": "Cultivo hortícola de fruto"
+    },
+    {
+        "constantCode": 1,
+        "code": "01134",
+        "description": "Cultivo de hortalizas de hoja y otras hortalizas ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "01140",
+        "description": "Cultivo de caña de azúcar"
+    },
+    {
+        "constantCode": 1,
+        "code": "01150",
+        "description": "Cultivo de tabaco"
+    },
+    {
+        "constantCode": 1,
+        "code": "01161",
+        "description": "Cultivo de algodón"
+    },
+    {
+        "constantCode": 1,
+        "code": "01162",
+        "description": "Cultivo de fibras vegetales excepto algodón"
+    },
+    {
+        "constantCode": 1,
+        "code": "01191",
+        "description": "Cultivo de plantas no perennes para la producción de semillas y flores"
+    },
+    {
+        "constantCode": 1,
+        "code": "01192",
+        "description": "Cultivo de cereales y pastos para la alimentación animal"
+    },
+    {
+        "constantCode": 1,
+        "code": "01199",
+        "description": "Producción de cultivos no estacionales ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "01220",
+        "description": "Cultivo de frutas tropicales"
+    },
+    {
+        "constantCode": 1,
+        "code": "01230",
+        "description": "Cultivo de cítricos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01240",
+        "description": "Cultivo de frutas de pepita y hueso"
+    },
+    {
+        "constantCode": 1,
+        "code": "01251",
+        "description": "Cultivo de frutas ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "01252",
+        "description": "Cultivo de otros frutos y nueces de árboles y arbustos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01260",
+        "description": "Cultivo de frutos oleaginosos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01271",
+        "description": "Cultivo de café"
+    },
+    {
+        "constantCode": 1,
+        "code": "01272",
+        "description": "Cultivo de plantas para la elaboración de bebidas excepto café"
+    },
+    {
+        "constantCode": 1,
+        "code": "01281",
+        "description": "Cultivo de especias y aromáticas"
+    },
+    {
+        "constantCode": 1,
+        "code": "01282",
+        "description": "Cultivo de plantas para la obtención de productos medicinales y farmacéuticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01291",
+        "description": "Cultivo de árboles de hule (caucho) para la obtención de látex"
+    },
+    {
+        "constantCode": 1,
+        "code": "01292",
+        "description": "Cultivo de plantas para la obtención de productos químicos y colorantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "01299",
+        "description": "Producción de cultivos perennes ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "01300",
+        "description": "Propagación de plantas"
+    },
+    {
+        "constantCode": 1,
+        "code": "01301",
+        "description": "Cultivo de plantas y flores ornamentales"
+    },
+    {
+        "constantCode": 1,
+        "code": "01410",
+        "description": "Cría y engorde de ganado bovino"
+    },
+    {
+        "constantCode": 1,
+        "code": "01420",
+        "description": "Cría de caballos y otros equinos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01440",
+        "description": "Cría de ovejas y cabras"
+    },
+    {
+        "constantCode": 1,
+        "code": "01450",
+        "description": "Cría de cerdos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01460",
+        "description": "Cría de aves de corral y producción de huevos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01491",
+        "description": "Cría de abejas apicultura para la obtención de miel y otros productos apícolas"
+    },
+    {
+        "constantCode": 1,
+        "code": "01492",
+        "description": "Cría de conejos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01493",
+        "description": "Cría de iguanas y garrobos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01494",
+        "description": "Cría de mariposas y otros insectos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01499",
+        "description": "Cría y obtención de productos animales n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "01500",
+        "description": "Cultivo de productos agrícolas en combinación con la cría de animales"
+    },
+    {
+        "constantCode": 1,
+        "code": "01611",
+        "description": "Servicios de maquinaria agrícola"
+    },
+    {
+        "constantCode": 1,
+        "code": "01612",
+        "description": "Control de plagas"
+    },
+    {
+        "constantCode": 1,
+        "code": "01613",
+        "description": "Servicios de riego"
+    },
+    {
+        "constantCode": 1,
+        "code": "01614",
+        "description": "Servicios de contratación de mano de obra para la agricultura"
+    },
+    {
+        "constantCode": 1,
+        "code": "01619",
+        "description": "Servicios agrícolas ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "01621",
+        "description": "Actividades para mejorar la reproducción, el crecimiento y el rendimiento de los animales y sus productos"
+    },
+    {
+        "constantCode": 1,
+        "code": "01622",
+        "description": "Servicios de mano de obra pecuaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "01629",
+        "description": "Servicios pecuarios ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "01631",
+        "description": "Labores post cosecha de preparación de los productos agrícolas para su comercialización o para la industria"
+    },
+    {
+        "constantCode": 1,
+        "code": "01632",
+        "description": "Servicio de beneficio de café"
+    },
+    {
+        "constantCode": 1,
+        "code": "01633",
+        "description": "Servicio de beneficiado de plantas textiles (incluye el beneficiado cuando este es realizado en la misma explotación agropecuaria)"
+    },
+    {
+        "constantCode": 1,
+        "code": "01640",
+        "description": "Tratamiento de semillas para la propagación"
+    },
+    {
+        "constantCode": 1,
+        "code": "01700",
+        "description": "Caza ordinaria y mediante trampas, repoblación de animales de caza y servicios conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "02100",
+        "description": "Silvicultura y otras actividades forestales"
+    },
+    {
+        "constantCode": 1,
+        "code": "02200",
+        "description": "Extracción de madera"
+    },
+    {
+        "constantCode": 1,
+        "code": "02300",
+        "description": "Recolección de productos diferentes a la madera"
+    },
+    {
+        "constantCode": 1,
+        "code": "02400",
+        "description": "Servicios de apoyo a la silvicultura"
+    },
+    {
+        "constantCode": 1,
+        "code": "03110",
+        "description": "Pesca marítima de altura y costera"
+    },
+    {
+        "constantCode": 1,
+        "code": "03120",
+        "description": "Pesca de agua dulce"
+    },
+    {
+        "constantCode": 1,
+        "code": "03210",
+        "description": "Acuicultura marítima"
+    },
+    {
+        "constantCode": 1,
+        "code": "03220",
+        "description": "Acuicultura de agua dulce"
+    },
+    {
+        "constantCode": 1,
+        "code": "03300",
+        "description": "Servicios de apoyo a la pesca y acuicultura"
+    },
+    {
+        "constantCode": 1,
+        "code": "05100",
+        "description": "Extracción de hulla"
+    },
+    {
+        "constantCode": 1,
+        "code": "05200",
+        "description": "Extracción y aglomeración de lignito"
+    },
+    {
+        "constantCode": 1,
+        "code": "06100",
+        "description": "Extracción de petróleo crudo"
+    },
+    {
+        "constantCode": 1,
+        "code": "06200",
+        "description": "Extracción de gas natural"
+    },
+    {
+        "constantCode": 1,
+        "code": "07100",
+        "description": "Extracción de minerales de hierro"
+    },
+    {
+        "constantCode": 1,
+        "code": "07210",
+        "description": "Extracción de minerales de uranio y torio"
+    },
+    {
+        "constantCode": 1,
+        "code": "07290",
+        "description": "Extracción de minerales metalíferos no ferrosos"
+    },
+    {
+        "constantCode": 1,
+        "code": "08100",
+        "description": "Extracción de piedra, arena y arcilla"
+    },
+    {
+        "constantCode": 1,
+        "code": "08910",
+        "description": "Extracción de minerales para la fabricación de abonos y productos químicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "08920",
+        "description": "Extracción y aglomeración de turba"
+    },
+    {
+        "constantCode": 1,
+        "code": "08930",
+        "description": "Extracción de sal"
+    },
+    {
+        "constantCode": 1,
+        "code": "08990",
+        "description": "Explotación de otras minas y canteras ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "09100",
+        "description": "Actividades de apoyo a la extracción de petróleo y gas natural"
+    },
+    {
+        "constantCode": 1,
+        "code": "09900",
+        "description": "Actividades de apoyo a la explotación de minas y canteras"
+    },
+    {
+        "constantCode": 1,
+        "code": "10101",
+        "description": "Servicio de rastros y mataderos de bovinos y porcinos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10102",
+        "description": "Matanza y procesamiento de bovinos y porcinos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10103",
+        "description": "Matanza y procesamientos de aves de corral"
+    },
+    {
+        "constantCode": 1,
+        "code": "10104",
+        "description": "Elaboración y conservación de embutidos y tripas naturales"
+    },
+    {
+        "constantCode": 1,
+        "code": "10105",
+        "description": "Servicios de conservación y empaque de carnes"
+    },
+    {
+        "constantCode": 1,
+        "code": "10106",
+        "description": "Elaboración de productos de carne ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "10201",
+        "description": "Procesamiento y conservación de pescado, crustáceos y moluscos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10209",
+        "description": "Fabricación de productos de pescado ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "10301",
+        "description": "Elaboración de jugos de frutas y hortalizas"
+    },
+    {
+        "constantCode": 1,
+        "code": "10302",
+        "description": "Elaboración y envase de jaleas, mermeladas y frutas deshidratadas"
+    },
+    {
+        "constantCode": 1,
+        "code": "10309",
+        "description": "Elaboración de productos de frutas y hortalizas n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "10401",
+        "description": "Fabricación de aceites y grasas vegetales y animales comestibles"
+    },
+    {
+        "constantCode": 1,
+        "code": "10402",
+        "description": "Fabricación de aceites y grasas vegetales y animales no comestibles"
+    },
+    {
+        "constantCode": 1,
+        "code": "10409",
+        "description": "Servicio de maquilado de aceites"
+    },
+    {
+        "constantCode": 1,
+        "code": "10501",
+        "description": "Fabricación de productos lácteos excepto sorbetes y quesos sustitutos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10502",
+        "description": "Fabricación de sorbetes y helados"
+    },
+    {
+        "constantCode": 1,
+        "code": "10503",
+        "description": "Fabricación de quesos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10611",
+        "description": "Molienda de cereales"
+    },
+    {
+        "constantCode": 1,
+        "code": "10612",
+        "description": "Elaboración de cereales para el desayuno y similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "10613",
+        "description": "Servicios de beneficiado de productos agrícolas ncp (excluye Beneficio de azúcar rama 1072 y beneficio de café rama 0163)"
+    },
+    {
+        "constantCode": 1,
+        "code": "10621",
+        "description": "Fabricación de almidón"
+    },
+    {
+        "constantCode": 1,
+        "code": "10628",
+        "description": "Servicio de molienda de maíz húmedo molino para nixtamal"
+    },
+    {
+        "constantCode": 1,
+        "code": "10711",
+        "description": "Elaboración de tortillas"
+    },
+    {
+        "constantCode": 1,
+        "code": "10712",
+        "description": "Fabricación de pan, galletas y barquillos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10713",
+        "description": "Fabricación de repostería"
+    },
+    {
+        "constantCode": 1,
+        "code": "10721",
+        "description": "Ingenios azucareros"
+    },
+    {
+        "constantCode": 1,
+        "code": "10722",
+        "description": "Molienda de caña de azúcar para la elaboración de dulces"
+    },
+    {
+        "constantCode": 1,
+        "code": "10723",
+        "description": "Elaboración de jarabes de azúcar y otros similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "10724",
+        "description": "Maquilado de azúcar de caña"
+    },
+    {
+        "constantCode": 1,
+        "code": "10730",
+        "description": "Fabricación de cacao, chocolates y productos de confitería"
+    },
+    {
+        "constantCode": 1,
+        "code": "10740",
+        "description": "Elaboración de macarrones, fideos, y productos farináceos similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "10750",
+        "description": "Elaboración de comidas y platos preparados para la reventa en locales y/o para exportación"
+    },
+    {
+        "constantCode": 1,
+        "code": "10791",
+        "description": "Elaboración de productos de café"
+    },
+    {
+        "constantCode": 1,
+        "code": "10792",
+        "description": "Elaboración de especies, sazonadores y condimentos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10793",
+        "description": "Elaboración de sopas, cremas y consomé"
+    },
+    {
+        "constantCode": 1,
+        "code": "10794",
+        "description": "Fabricación de bocadillos tostados y/o fritos"
+    },
+    {
+        "constantCode": 1,
+        "code": "10799",
+        "description": "Elaboración de productos alimenticios ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "10800",
+        "description": "Elaboración de alimentos preparados para animales"
+    },
+    {
+        "constantCode": 1,
+        "code": "11012",
+        "description": "Fabricación de aguardiente y licores"
+    },
+    {
+        "constantCode": 1,
+        "code": "11020",
+        "description": "Elaboración de vinos"
+    },
+    {
+        "constantCode": 1,
+        "code": "11030",
+        "description": "Fabricación de cerveza"
+    },
+    {
+        "constantCode": 1,
+        "code": "11041",
+        "description": "Fabricación de aguas gaseosas"
+    },
+    {
+        "constantCode": 1,
+        "code": "11042",
+        "description": "Fabricación y envasado de agua"
+    },
+    {
+        "constantCode": 1,
+        "code": "11043",
+        "description": "Elaboración de refrescos"
+    },
+    {
+        "constantCode": 1,
+        "code": "11048",
+        "description": "Maquilado de aguas gaseosas"
+    },
+    {
+        "constantCode": 1,
+        "code": "11049",
+        "description": "Elaboración de bebidas no alcohólicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "12000",
+        "description": "Elaboración de productos de tabaco"
+    },
+    {
+        "constantCode": 1,
+        "code": "13111",
+        "description": "Preparación de fibras textiles"
+    },
+    {
+        "constantCode": 1,
+        "code": "13112",
+        "description": "Fabricación de hilados"
+    },
+    {
+        "constantCode": 1,
+        "code": "13120",
+        "description": "Fabricación de telas"
+    },
+    {
+        "constantCode": 1,
+        "code": "13130",
+        "description": "Acabado de productos textiles"
+    },
+    {
+        "constantCode": 1,
+        "code": "13910",
+        "description": "Fabricación de tejidos de punto y ganchillo"
+    },
+    {
+        "constantCode": 1,
+        "code": "13921",
+        "description": "Fabricación de productos textiles para el hogar"
+    },
+    {
+        "constantCode": 1,
+        "code": "13922",
+        "description": "Sacos, bolsas y otros artículos textiles"
+    },
+    {
+        "constantCode": 1,
+        "code": "13929",
+        "description": "Fabricación de artículos confeccionados con materiales textiles, excepto prendas de vestir ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "13930",
+        "description": "Fabricación de tapices y alfombras"
+    },
+    {
+        "constantCode": 1,
+        "code": "13941",
+        "description": "Fabricación de cuerdas de henequén y otras fibras naturales (lazos, pitas)"
+    },
+    {
+        "constantCode": 1,
+        "code": "13942",
+        "description": "Fabricación de redes de diversos materiales"
+    },
+    {
+        "constantCode": 1,
+        "code": "13948",
+        "description": "Maquilado de productos trenzables de cualquier material (petates, sillas, etc.)"
+    },
+    {
+        "constantCode": 1,
+        "code": "13991",
+        "description": "Fabricación de adornos, etiquetas y otros artículos para prendas de vestir"
+    },
+    {
+        "constantCode": 1,
+        "code": "13992",
+        "description": "Servicio de bordados en artículos y prendas de tela"
+    },
+    {
+        "constantCode": 1,
+        "code": "13999",
+        "description": "Fabricación de productos textiles ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "14101",
+        "description": "Fabricación de ropa interior, para dormir y similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "14102",
+        "description": "Fabricación de ropa para niños"
+    },
+    {
+        "constantCode": 1,
+        "code": "14103",
+        "description": "Fabricación de prendas de vestir para ambos sexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "14104",
+        "description": "Confección de prendas a medida"
+    },
+    {
+        "constantCode": 1,
+        "code": "14105",
+        "description": "Fabricación de prendas de vestir para deportes"
+    },
+    {
+        "constantCode": 1,
+        "code": "14106",
+        "description": "Elaboración de artesanías de uso personal confeccionadas especialmente de materiales textiles"
+    },
+    {
+        "constantCode": 1,
+        "code": "14108",
+        "description": "Maquilado de prendas de vestir, accesorios y otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "14109",
+        "description": "Fabricación de prendas y accesorios de vestir n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "14200",
+        "description": "Fabricación de artículos de piel"
+    },
+    {
+        "constantCode": 1,
+        "code": "14301",
+        "description": "Fabricación de calcetines, calcetas, medias (panty house) y otros similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "14302",
+        "description": "Fabricación de ropa interior de tejido de punto"
+    },
+    {
+        "constantCode": 1,
+        "code": "14309",
+        "description": "Fabricación de prendas de vestir de tejido de punto ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "15110",
+        "description": "Curtido y adobo de cueros; adobo y teñido de pieles"
+    },
+    {
+        "constantCode": 1,
+        "code": "15121",
+        "description": "Fabricación de maletas, bolsos de mano y otros artículos de marroquinería"
+    },
+    {
+        "constantCode": 1,
+        "code": "15122",
+        "description": "Fabricación de monturas, accesorios y vainas talabartería"
+    },
+    {
+        "constantCode": 1,
+        "code": "15123",
+        "description": "Fabricación de artesanías principalmente de cuero natural y sintético"
+    },
+    {
+        "constantCode": 1,
+        "code": "15128",
+        "description": "Maquilado de artículos de cuero natural, sintético y de otros materiales"
+    },
+    {
+        "constantCode": 1,
+        "code": "15201",
+        "description": "Fabricación de calzado"
+    },
+    {
+        "constantCode": 1,
+        "code": "15202",
+        "description": "Fabricación de partes y accesorios de calzado"
+    },
+    {
+        "constantCode": 1,
+        "code": "15208",
+        "description": "Maquilado de partes y accesorios de calzado"
+    },
+    {
+        "constantCode": 1,
+        "code": "16100",
+        "description": "Aserradero y acepilladura de madera"
+    },
+    {
+        "constantCode": 1,
+        "code": "16210",
+        "description": "Fabricación de madera laminada, terciada, enchapada y contrachapada, paneles para la construcción"
+    },
+    {
+        "constantCode": 1,
+        "code": "16220",
+        "description": "Fabricación de partes y piezas de carpintería para edificios y construcciones"
+    },
+    {
+        "constantCode": 1,
+        "code": "16230",
+        "description": "Fabricación de envases y recipientes de madera"
+    },
+    {
+        "constantCode": 1,
+        "code": "16292",
+        "description": "Fabricación de artesanías de madera, semillas, materiales trenzables"
+    },
+    {
+        "constantCode": 1,
+        "code": "16299",
+        "description": "Fabricación de productos de madera, corcho, paja y materiales trenzables ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "17010",
+        "description": "Fabricación de pasta de madera, papel y cartón"
+    },
+    {
+        "constantCode": 1,
+        "code": "17020",
+        "description": "Fabricación de papel y cartón ondulado y envases de papel y cartón"
+    },
+    {
+        "constantCode": 1,
+        "code": "17091",
+        "description": "Fabricación de artículos de papel y cartón de uso personal y doméstico"
+    },
+    {
+        "constantCode": 1,
+        "code": "17092",
+        "description": "Fabricación de productos de papel ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "18110",
+        "description": "Impresión"
+    },
+    {
+        "constantCode": 1,
+        "code": "18120",
+        "description": "Servicios relacionados con la impresión"
+    },
+    {
+        "constantCode": 1,
+        "code": "18200",
+        "description": "Reproducción de grabaciones"
+    },
+    {
+        "constantCode": 1,
+        "code": "19100",
+        "description": "Fabricación de productos de hornos de coque"
+    },
+    {
+        "constantCode": 1,
+        "code": "19201",
+        "description": "Fabricación de combustible"
+    },
+    {
+        "constantCode": 1,
+        "code": "19202",
+        "description": "Fabricación de aceites y lubricantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "20111",
+        "description": "Fabricación de materias primas para la fabricación de colorantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "20112",
+        "description": "Fabricación de materiales curtientes"
+    },
+    {
+        "constantCode": 1,
+        "code": "20113",
+        "description": "Fabricación de gases industriales"
+    },
+    {
+        "constantCode": 1,
+        "code": "20114",
+        "description": "Fabricación de alcohol etílico"
+    },
+    {
+        "constantCode": 1,
+        "code": "20119",
+        "description": "Fabricación de sustancias químicas básicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "20120",
+        "description": "Fabricación de abonos y fertilizantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "20130",
+        "description": "Fabricación de plástico y caucho en formas primarias"
+    },
+    {
+        "constantCode": 1,
+        "code": "20210",
+        "description": "Fabricación de plaguicidas y otros productos químicos de uso agropecuario"
+    },
+    {
+        "constantCode": 1,
+        "code": "20220",
+        "description": "Fabricación de pinturas, barnices y productos de revestimiento similares; tintas de imprenta y masillas"
+    },
+    {
+        "constantCode": 1,
+        "code": "20231",
+        "description": "Fabricación de jabones, detergentes y similares para limpieza"
+    },
+    {
+        "constantCode": 1,
+        "code": "20232",
+        "description": "Fabricación de perfumes, cosméticos y productos de higiene y cuidado personal, incluyendo tintes, champú, etc."
+    },
+    {
+        "constantCode": 1,
+        "code": "20291",
+        "description": "Fabricación de tintas y colores para escribir y pintar; fabricación de cintas para impresoras"
+    },
+    {
+        "constantCode": 1,
+        "code": "20292",
+        "description": "Fabricación de productos pirotécnicos, explosivos y municiones"
+    },
+    {
+        "constantCode": 1,
+        "code": "20299",
+        "description": "Fabricación de productos químicos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "20300",
+        "description": "Fabricación de fibras artificiales"
+    },
+    {
+        "constantCode": 1,
+        "code": "21001",
+        "description": "Manufactura de productos farmacéuticos, sustancias químicas y productos botánicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "21008",
+        "description": "Maquilado de medicamentos"
+    },
+    {
+        "constantCode": 1,
+        "code": "22110",
+        "description": "Fabricación de cubiertas y cámaras; renovación y recauchutado de cubiertas"
+    },
+    {
+        "constantCode": 1,
+        "code": "22190",
+        "description": "Fabricación de otros productos de caucho"
+    },
+    {
+        "constantCode": 1,
+        "code": "22201",
+        "description": "Fabricación de envases plásticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "22202",
+        "description": "Fabricación de productos plásticos para uso personal o doméstico"
+    },
+    {
+        "constantCode": 1,
+        "code": "22208",
+        "description": "Maquila de plásticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "22209",
+        "description": "Fabricación de productos plásticos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "23101",
+        "description": "Fabricación de vidrio"
+    },
+    {
+        "constantCode": 1,
+        "code": "23102",
+        "description": "Fabricación de recipientes y envases de vidrio"
+    },
+    {
+        "constantCode": 1,
+        "code": "23108",
+        "description": "Servicio de maquilado"
+    },
+    {
+        "constantCode": 1,
+        "code": "23109",
+        "description": "Fabricación de productos de vidrio ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "23910",
+        "description": "Fabricación de productos refractarios"
+    },
+    {
+        "constantCode": 1,
+        "code": "23920",
+        "description": "Fabricación de productos de arcilla para la construcción"
+    },
+    {
+        "constantCode": 1,
+        "code": "23931",
+        "description": "Fabricación de productos de cerámica y porcelana no refractaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "23932",
+        "description": "Fabricación de productos de cerámica y porcelana ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "23940",
+        "description": "Fabricación de cemento, cal y yeso"
+    },
+    {
+        "constantCode": 1,
+        "code": "23950",
+        "description": "Fabricación de artículos de hormigón, cemento y yeso"
+    },
+    {
+        "constantCode": 1,
+        "code": "23960",
+        "description": "Corte, tallado y acabado de la piedra"
+    },
+    {
+        "constantCode": 1,
+        "code": "23990",
+        "description": "Fabricación de productos minerales no metálicos ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "24100",
+        "description": "Industrias básicas de hierro y acero"
+    },
+    {
+        "constantCode": 1,
+        "code": "24200",
+        "description": "Fabricación de productos primarios de metales preciosos y metales no ferrosos"
+    },
+    {
+        "constantCode": 1,
+        "code": "24310",
+        "description": "Fundición de hierro y acero"
+    },
+    {
+        "constantCode": 1,
+        "code": "24320",
+        "description": "Fundición de metales no ferrosos"
+    },
+    {
+        "constantCode": 1,
+        "code": "25111",
+        "description": "Fabricación de productos metálicos para uso estructural"
+    },
+    {
+        "constantCode": 1,
+        "code": "25118",
+        "description": "Servicio de maquila para la fabricación de estructuras metálicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "25120",
+        "description": "Fabricación de tanques, depósitos y recipientes de metal"
+    },
+    {
+        "constantCode": 1,
+        "code": "25130",
+        "description": "Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central"
+    },
+    {
+        "constantCode": 1,
+        "code": "25200",
+        "description": "Fabricación de armas y municiones"
+    },
+    {
+        "constantCode": 1,
+        "code": "25910",
+        "description": "Forjado, prensado, estampado y laminado de metales; pulvimetalurgia"
+    },
+    {
+        "constantCode": 1,
+        "code": "25920",
+        "description": "Tratamiento y revestimiento de metales"
+    },
+    {
+        "constantCode": 1,
+        "code": "25930",
+        "description": "Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería"
+    },
+    {
+        "constantCode": 1,
+        "code": "25991",
+        "description": "Fabricación de envases y artículos conexos de metal"
+    },
+    {
+        "constantCode": 1,
+        "code": "25992",
+        "description": "Fabricación de artículos metálicos de uso personal y/o doméstico"
+    },
+    {
+        "constantCode": 1,
+        "code": "25999",
+        "description": "Fabricación de productos elaborados de metal ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "26100",
+        "description": "Fabricación de componentes electrónicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "26200",
+        "description": "Fabricación de computadoras y equipo conexo"
+    },
+    {
+        "constantCode": 1,
+        "code": "26300",
+        "description": "Fabricación de equipo de comunicaciones"
+    },
+    {
+        "constantCode": 1,
+        "code": "26400",
+        "description": "Fabricación de aparatos electrónicos de consumo para audio, video radio y televisión"
+    },
+    {
+        "constantCode": 1,
+        "code": "26510",
+        "description": "Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y de control de procesos industriales"
+    },
+    {
+        "constantCode": 1,
+        "code": "26520",
+        "description": "Fabricación de relojes y piezas de relojes"
+    },
+    {
+        "constantCode": 1,
+        "code": "26600",
+        "description": "Fabricación de equipo médico de irradiación y equipo electrónico de uso médico y terapéutico"
+    },
+    {
+        "constantCode": 1,
+        "code": "26700",
+        "description": "Fabricación de instrumentos de óptica y equipo fotográfico"
+    },
+    {
+        "constantCode": 1,
+        "code": "26800",
+        "description": "Fabricación de medios magnéticos y ópticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "27100",
+        "description": "Fabricación de motores, generadores, transformadores eléctricos, aparatos de distribución y control de electricidad"
+    },
+    {
+        "constantCode": 1,
+        "code": "27200",
+        "description": "Fabricación de pilas, baterías y acumuladores"
+    },
+    {
+        "constantCode": 1,
+        "code": "27310",
+        "description": "Fabricación de cables de fibra óptica"
+    },
+    {
+        "constantCode": 1,
+        "code": "27320",
+        "description": "Fabricación de otros hilos y cables eléctricos"
+    },
+    {
+        "constantCode": 1,
+        "code": "27330",
+        "description": "Fabricación de dispositivos de cableados"
+    },
+    {
+        "constantCode": 1,
+        "code": "27400",
+        "description": "Fabricación de equipo eléctrico de iluminación"
+    },
+    {
+        "constantCode": 1,
+        "code": "27500",
+        "description": "Fabricación de aparatos de uso doméstico"
+    },
+    {
+        "constantCode": 1,
+        "code": "27900",
+        "description": "Fabricación de otros tipos de equipo eléctrico"
+    },
+    {
+        "constantCode": 1,
+        "code": "28110",
+        "description": "Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas"
+    },
+    {
+        "constantCode": 1,
+        "code": "28120",
+        "description": "Fabricación de equipo hidráulico"
+    },
+    {
+        "constantCode": 1,
+        "code": "28130",
+        "description": "Fabricación de otras bombas, compresores, grifos y válvulas"
+    },
+    {
+        "constantCode": 1,
+        "code": "28140",
+        "description": "Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión"
+    },
+    {
+        "constantCode": 1,
+        "code": "28150",
+        "description": "Fabricación de hornos y quemadores"
+    },
+    {
+        "constantCode": 1,
+        "code": "28160",
+        "description": "Fabricación de equipo de elevación y manipulación"
+    },
+    {
+        "constantCode": 1,
+        "code": "28170",
+        "description": "Fabricación de maquinaria y equipo de oficina"
+    },
+    {
+        "constantCode": 1,
+        "code": "28180",
+        "description": "Fabricación de herramientas manuales"
+    },
+    {
+        "constantCode": 1,
+        "code": "28190",
+        "description": "Fabricación de otros tipos de maquinaria de uso general"
+    },
+    {
+        "constantCode": 1,
+        "code": "28210",
+        "description": "Fabricación de maquinaria agropecuaria y forestal"
+    },
+    {
+        "constantCode": 1,
+        "code": "28220",
+        "description": "Fabricación de máquinas para conformar metales y maquinaria herramienta"
+    },
+    {
+        "constantCode": 1,
+        "code": "28230",
+        "description": "Fabricación de maquinaria metalúrgica"
+    },
+    {
+        "constantCode": 1,
+        "code": "28240",
+        "description": "Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción"
+    },
+    {
+        "constantCode": 1,
+        "code": "28250",
+        "description": "Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco"
+    },
+    {
+        "constantCode": 1,
+        "code": "28260",
+        "description": "Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros"
+    },
+    {
+        "constantCode": 1,
+        "code": "28291",
+        "description": "Fabricación de máquinas para imprenta"
+    },
+    {
+        "constantCode": 1,
+        "code": "28299",
+        "description": "Fabricación de maquinaria de uso especial ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "29100",
+        "description": "Fabricación vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "29200",
+        "description": "Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semiremolques"
+    },
+    {
+        "constantCode": 1,
+        "code": "29300",
+        "description": "Fabricación de partes, piezas y accesorios para vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "30110",
+        "description": "Fabricación de buques"
+    },
+    {
+        "constantCode": 1,
+        "code": "30120",
+        "description": "Construcción y reparación de embarcaciones de recreo"
+    },
+    {
+        "constantCode": 1,
+        "code": "30200",
+        "description": "Fabricación de locomotoras y de material rodante"
+    },
+    {
+        "constantCode": 1,
+        "code": "30300",
+        "description": "Fabricación de aeronaves y naves espaciales"
+    },
+    {
+        "constantCode": 1,
+        "code": "30400",
+        "description": "Fabricación de vehículos militares de combate"
+    },
+    {
+        "constantCode": 1,
+        "code": "30910",
+        "description": "Fabricación de motocicletas"
+    },
+    {
+        "constantCode": 1,
+        "code": "30920",
+        "description": "Fabricación de bicicletas y sillones de ruedas para inválidos"
+    },
+    {
+        "constantCode": 1,
+        "code": "30990",
+        "description": "Fabricación de equipo de transporte ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "31001",
+        "description": "Fabricación de colchones y somier"
+    },
+    {
+        "constantCode": 1,
+        "code": "31002",
+        "description": "Fabricación de muebles y otros productos de madera a medida"
+    },
+    {
+        "constantCode": 1,
+        "code": "31008",
+        "description": "Servicios de maquilado de muebles"
+    },
+    {
+        "constantCode": 1,
+        "code": "31009",
+        "description": "Fabricación de muebles ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "32110",
+        "description": "Fabricación de joyas platerías y joyerías"
+    },
+    {
+        "constantCode": 1,
+        "code": "32120",
+        "description": "Fabricación de joyas de imitación (fantasía) y artículos conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "32200",
+        "description": "Fabricación de instrumentos musicales"
+    },
+    {
+        "constantCode": 1,
+        "code": "32301",
+        "description": "Fabricación de artículos de deporte"
+    },
+    {
+        "constantCode": 1,
+        "code": "32308",
+        "description": "Servicio de maquila de productos deportivos"
+    },
+    {
+        "constantCode": 1,
+        "code": "32401",
+        "description": "Fabricación de juegos de mesa y de salón"
+    },
+    {
+        "constantCode": 1,
+        "code": "32402",
+        "description": "Servicio de maquilado de juguetes y juegos"
+    },
+    {
+        "constantCode": 1,
+        "code": "32409",
+        "description": "Fabricación de juegos y juguetes n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "32500",
+        "description": "Fabricación de instrumentos y materiales médicos y odontológicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "32901",
+        "description": "Fabricación de lápices, bolígrafos, sellos y artículos de librería en general"
+    },
+    {
+        "constantCode": 1,
+        "code": "32902",
+        "description": "Fabricación de escobas, cepillos, pinceles y similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "32903",
+        "description": "Fabricación de artesanías de materiales diversos"
+    },
+    {
+        "constantCode": 1,
+        "code": "32904",
+        "description": "Fabricación de artículos de uso personal y domésticos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "32905",
+        "description": "Fabricación de accesorios para las confecciones y la marroquinería n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "32908",
+        "description": "Servicios de maquila ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "32909",
+        "description": "Fabricación de productos manufacturados n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "33110",
+        "description": "Reparación y mantenimiento de productos elaborados de metal"
+    },
+    {
+        "constantCode": 1,
+        "code": "33120",
+        "description": "Reparación y mantenimiento de maquinaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "33130",
+        "description": "Reparación y mantenimiento de equipo electrónico y óptico"
+    },
+    {
+        "constantCode": 1,
+        "code": "33140",
+        "description": "Reparación y mantenimiento de equipo eléctrico"
+    },
+    {
+        "constantCode": 1,
+        "code": "33150",
+        "description": "Reparación y mantenimiento de equipo de transporte, excepto vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "33190",
+        "description": "Reparación y mantenimiento de equipos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "33200",
+        "description": "Instalación de maquinaria y equipo industrial"
+    },
+    {
+        "constantCode": 1,
+        "code": "35101",
+        "description": "Generación de energía eléctrica"
+    },
+    {
+        "constantCode": 1,
+        "code": "35102",
+        "description": "Transmisión de energía eléctrica"
+    },
+    {
+        "constantCode": 1,
+        "code": "35103",
+        "description": "Distribución de energía eléctrica"
+    },
+    {
+        "constantCode": 1,
+        "code": "35200",
+        "description": "Fabricación de gas, distribución de combustibles gaseosos por tuberías"
+    },
+    {
+        "constantCode": 1,
+        "code": "35300",
+        "description": "Suministro de vapor y agua caliente"
+    },
+    {
+        "constantCode": 1,
+        "code": "36000",
+        "description": "Captación, tratamiento y suministro de agua"
+    },
+    {
+        "constantCode": 1,
+        "code": "37000",
+        "description": "Evacuación de aguas residuales (alcantarillado)"
+    },
+    {
+        "constantCode": 1,
+        "code": "38120",
+        "description": "Recolección de desechos peligrosos"
+    },
+    {
+        "constantCode": 1,
+        "code": "38210",
+        "description": "Tratamiento y eliminación de desechos inicuos"
+    },
+    {
+        "constantCode": 1,
+        "code": "38220",
+        "description": "Tratamiento y eliminación de desechos peligrosos"
+    },
+    {
+        "constantCode": 1,
+        "code": "38301",
+        "description": "Reciclaje de desperdicios y desechos textiles"
+    },
+    {
+        "constantCode": 1,
+        "code": "38302",
+        "description": "Reciclaje de desperdicios y desechos de plástico y caucho"
+    },
+    {
+        "constantCode": 1,
+        "code": "38303",
+        "description": "Reciclaje de desperdicios y desechos de vidrio"
+    },
+    {
+        "constantCode": 1,
+        "code": "38304",
+        "description": "Reciclaje de desperdicios y desechos de papel y cartón"
+    },
+    {
+        "constantCode": 1,
+        "code": "38305",
+        "description": "Reciclaje de desperdicios y desechos metálicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "38309",
+        "description": "Reciclaje de desperdicios y desechos no metálicos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "39000",
+        "description": "Actividades de Saneamiento y otros Servicios de Gestión de Desechos"
+    },
+    {
+        "constantCode": 1,
+        "code": "41001",
+        "description": "Construcción de edificios residenciales"
+    },
+    {
+        "constantCode": 1,
+        "code": "41002",
+        "description": "Construcción de edificios no residenciales"
+    },
+    {
+        "constantCode": 1,
+        "code": "42100",
+        "description": "Construcción de carreteras, calles y caminos"
+    },
+    {
+        "constantCode": 1,
+        "code": "42200",
+        "description": "Construcción de proyectos de servicio público"
+    },
+    {
+        "constantCode": 1,
+        "code": "42900",
+        "description": "Construcción de obras de ingeniería civil n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "43110",
+        "description": "Demolición"
+    },
+    {
+        "constantCode": 1,
+        "code": "43120",
+        "description": "Preparación de terreno"
+    },
+    {
+        "constantCode": 1,
+        "code": "43210",
+        "description": "Instalaciones eléctricas"
+    },
+    {
+        "constantCode": 1,
+        "code": "43220",
+        "description": "Instalación de fontanería, calefacción y aire acondicionado"
+    },
+    {
+        "constantCode": 1,
+        "code": "43290",
+        "description": "Otras instalaciones para obras de construcción"
+    },
+    {
+        "constantCode": 1,
+        "code": "43300",
+        "description": "Terminación y acabado de edificios"
+    },
+    {
+        "constantCode": 1,
+        "code": "43900",
+        "description": "Otras actividades especializadas de construcción"
+    },
+    {
+        "constantCode": 1,
+        "code": "43901",
+        "description": "Fabricación de techos y materiales diversos"
+    },
+    {
+        "constantCode": 1,
+        "code": "45100",
+        "description": "Venta de vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45201",
+        "description": "Reparación mecánica de vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45202",
+        "description": "Reparaciones eléctricas del automotor y recarga de baterías"
+    },
+    {
+        "constantCode": 1,
+        "code": "45203",
+        "description": "Enderezado y pintura de vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45204",
+        "description": "Reparaciones de radiadores, escapes y silenciadores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45205",
+        "description": "Reparación y reconstrucción de vías, stop y otros artículos de fibra de vidrio"
+    },
+    {
+        "constantCode": 1,
+        "code": "45206",
+        "description": "Reparación de llantas de vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45207",
+        "description": "Polarizado de vehículos (mediante la adhesión de papel especial a los vidrios)"
+    },
+    {
+        "constantCode": 1,
+        "code": "45208",
+        "description": "Lavado y pasteado de vehículos (carwash)"
+    },
+    {
+        "constantCode": 1,
+        "code": "45209",
+        "description": "Reparaciones de vehículos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "45211",
+        "description": "Remolque de vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45301",
+        "description": "Venta de partes, piezas y accesorios nuevos para vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45302",
+        "description": "Venta de partes, piezas y accesorios usados para vehículos automotores"
+    },
+    {
+        "constantCode": 1,
+        "code": "45401",
+        "description": "Venta de motocicletas"
+    },
+    {
+        "constantCode": 1,
+        "code": "45402",
+        "description": "Venta de repuestos, piezas y accesorios de motocicletas"
+    },
+    {
+        "constantCode": 1,
+        "code": "45403",
+        "description": "Mantenimiento y reparación de motocicletas"
+    },
+    {
+        "constantCode": 1,
+        "code": "46100",
+        "description": "Venta al por mayor a cambio de retribución o por contrata"
+    },
+    {
+        "constantCode": 1,
+        "code": "46201",
+        "description": "Venta al por mayor de materias primas agrícolas"
+    },
+    {
+        "constantCode": 1,
+        "code": "46202",
+        "description": "Venta al por mayor de productos de la silvicultura"
+    },
+    {
+        "constantCode": 1,
+        "code": "46203",
+        "description": "Venta al por mayor de productos pecuarios y de granja"
+    },
+    {
+        "constantCode": 1,
+        "code": "46211",
+        "description": "Venta de productos para uso agropecuario"
+    },
+    {
+        "constantCode": 1,
+        "code": "46291",
+        "description": "Venta al por mayor de granos básicos (cereales, leguminosas)"
+    },
+    {
+        "constantCode": 1,
+        "code": "46292",
+        "description": "Venta al por mayor de semillas mejoradas para cultivo"
+    },
+    {
+        "constantCode": 1,
+        "code": "46293",
+        "description": "Venta al por mayor de café oro y uva"
+    },
+    {
+        "constantCode": 1,
+        "code": "46294",
+        "description": "Venta al por mayor de caña de azúcar"
+    },
+    {
+        "constantCode": 1,
+        "code": "46295",
+        "description": "Venta al por mayor de flores, plantas y otros productos naturales"
+    },
+    {
+        "constantCode": 1,
+        "code": "46296",
+        "description": "Venta al por mayor de productos agrícolas"
+    },
+    {
+        "constantCode": 1,
+        "code": "46297",
+        "description": "Venta al por mayor de ganado bovino (vivo)"
+    },
+    {
+        "constantCode": 1,
+        "code": "46298",
+        "description": "Venta al por mayor de animales porcinos, ovinos, caprino, canículas, apícolas, avícolas vivos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46299",
+        "description": "Venta de otras especies vivas del reino animal"
+    },
+    {
+        "constantCode": 1,
+        "code": "46301",
+        "description": "Venta al por mayor de alimentos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46302",
+        "description": "Venta al por mayor de bebidas"
+    },
+    {
+        "constantCode": 1,
+        "code": "46303",
+        "description": "Venta al por mayor de tabaco"
+    },
+    {
+        "constantCode": 1,
+        "code": "46371",
+        "description": "Venta al por mayor de frutas, hortalizas (verduras), legumbres y tubérculos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46372",
+        "description": "Venta al por mayor de pollos, gallinas destazadas, pavos y otras aves"
+    },
+    {
+        "constantCode": 1,
+        "code": "46373",
+        "description": "Venta al por mayor de carne bovina y porcina, productos de carne y embutidos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46374",
+        "description": "Venta al por mayor de huevos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46375",
+        "description": "Venta al por mayor de productos lácteos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46376",
+        "description": "Venta al por mayor de productos farináceos de panadería (pan dulce, cakes, repostería, etc.)"
+    },
+    {
+        "constantCode": 1,
         "code": "46377",
         "description": "Venta al por mayor de pastas alimenticias, aceites y grasas comestibles vegetal y animal"
+    },
+    {
+        "constantCode": 1,
+        "code": "46378",
+        "description": "Venta al por mayor de sal comestible"
+    },
+    {
+        "constantCode": 1,
+        "code": "46379",
+        "description": "Venta al por mayor de azúcar"
+    },
+    {
+        "constantCode": 1,
+        "code": "46391",
+        "description": "Venta al por mayor de abarrotes (vinos, licores, productos alimenticios envasados, etc.)"
+    },
+    {
+        "constantCode": 1,
+        "code": "46392",
+        "description": "Venta al por mayor de aguas gaseosas"
+    },
+    {
+        "constantCode": 1,
+        "code": "46393",
+        "description": "Venta al por mayor de agua purificada"
+    },
+    {
+        "constantCode": 1,
+        "code": "46394",
+        "description": "Venta al por mayor de refrescos y otras bebidas, líquidas o en polvo"
+    },
+    {
+        "constantCode": 1,
+        "code": "46395",
+        "description": "Venta al por mayor de cerveza y licores"
+    },
+    {
+        "constantCode": 1,
+        "code": "46396",
+        "description": "Venta al por mayor de hielo"
+    },
+    {
+        "constantCode": 1,
+        "code": "46411",
+        "description": "Venta al por mayor de hilados, tejidos y productos textiles de mercería"
+    },
+    {
+        "constantCode": 1,
+        "code": "46412",
+        "description": "Venta al por mayor de artículos textiles excepto confecciones para el hogar"
+    },
+    {
+        "constantCode": 1,
+        "code": "46413",
+        "description": "Venta al por mayor de confecciones textiles para el hogar"
+    },
+    {
+        "constantCode": 1,
+        "code": "46414",
+        "description": "Venta al por mayor de prendas de vestir y accesorios de vestir"
+    },
+    {
+        "constantCode": 1,
+        "code": "46415",
+        "description": "Venta al por mayor de ropa usada"
+    },
+    {
+        "constantCode": 1,
+        "code": "46416",
+        "description": "Venta al por mayor de calzado"
+    },
+    {
+        "constantCode": 1,
+        "code": "46417",
+        "description": "Venta al por mayor de artículos de marroquinería y talabartería"
+    },
+    {
+        "constantCode": 1,
+        "code": "46418",
+        "description": "Venta al por mayor de artículos de peletería"
+    },
+    {
+        "constantCode": 1,
+        "code": "46419",
+        "description": "Venta al por mayor de otros artículos textiles n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "46471",
+        "description": "Venta al por mayor de instrumentos musicales"
+    },
+    {
+        "constantCode": 1,
+        "code": "46472",
+        "description": "Venta al por mayor de colchones, almohadas, cojines, etc."
+    },
+    {
+        "constantCode": 1,
+        "code": "46473",
+        "description": "Venta al por mayor de artículos de aluminio para el hogar y para otros usos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46474",
+        "description": "Venta al por mayor de depósitos y otros artículos plásticos para el hogar y otros usos, incluyendo los desechables de durapax y no desechables"
+    },
+    {
+        "constantCode": 1,
+        "code": "46475",
+        "description": "Venta al por mayor de cámaras fotográficas, accesorios y materiales"
+    },
+    {
+        "constantCode": 1,
+        "code": "46482",
+        "description": "Venta al por mayor de medicamentos, artículos y otros productos de uso veterinario"
+    },
+    {
+        "constantCode": 1,
+        "code": "46483",
+        "description": "Venta al por mayor de productos y artículos de belleza y de uso personal"
     },
     {
         "constantCode": 1,
@@ -11,8 +1971,263 @@
     },
     {
         "constantCode": 1,
+        "code": "46491",
+        "description": "Venta al por mayor de productos medicinales, cosméticos, perfumería y productos de limpieza"
+    },
+    {
+        "constantCode": 1,
+        "code": "46492",
+        "description": "Venta al por mayor de relojes y artículos de joyería"
+    },
+    {
+        "constantCode": 1,
+        "code": "46493",
+        "description": "Venta al por mayor de electrodomésticos y artículos del hogar excepto bazar; artículos de iluminación"
+    },
+    {
+        "constantCode": 1,
+        "code": "46494",
+        "description": "Venta al por mayor de artículos de bazar y similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "46495",
+        "description": "Venta al por mayor de artículos de óptica"
+    },
+    {
+        "constantCode": 1,
+        "code": "46496",
+        "description": "Venta al por mayor de revistas, periódicos, libros, artículos de librería y artículos de papel y cartón en general"
+    },
+    {
+        "constantCode": 1,
+        "code": "46497",
+        "description": "Venta de artículos deportivos, juguetes y rodados"
+    },
+    {
+        "constantCode": 1,
+        "code": "46498",
+        "description": "Venta al por mayor de productos usados para el hogar o el uso personal"
+    },
+    {
+        "constantCode": 1,
+        "code": "46499",
+        "description": "Venta al por mayor de enseres domésticos y de uso personal n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "46500",
+        "description": "Venta al por mayor de bicicletas, partes, accesorios y otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "46510",
+        "description": "Venta al por mayor de computadoras, equipo periférico y programas informáticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46520",
+        "description": "Venta al por mayor de equipos de comunicación"
+    },
+    {
+        "constantCode": 1,
+        "code": "46530",
+        "description": "Venta al por mayor de maquinaria y equipo agropecuario, accesorios, partes y suministros"
+    },
+    {
+        "constantCode": 1,
+        "code": "46590",
+        "description": "Venta de equipos e instrumentos de uso profesional y científico y aparatos de medida y control"
+    },
+    {
+        "constantCode": 1,
+        "code": "46591",
+        "description": "Venta al por mayor de maquinaria equipo, accesorios y materiales para la industria de la madera y sus productos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46592",
+        "description": "Venta al por mayor de maquinaria, equipo, accesorios y materiales para la industria gráfica y del papel, cartón y productos de papel y cartón"
+    },
+    {
+        "constantCode": 1,
+        "code": "46593",
+        "description": "Venta al por mayor de maquinaria, equipo, accesorios y materiales para la industria de productos químicos, plástico y caucho"
+    },
+    {
+        "constantCode": 1,
+        "code": "46594",
+        "description": "Venta al por mayor de maquinaria, equipo, accesorios y materiales para la industria metálica y de sus productos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46595",
+        "description": "Venta al por mayor de equipamiento para uso médico, odontológico, veterinario y servicios conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46596",
+        "description": "Venta al por mayor de maquinaria, equipo, accesorios y partes para la industria de la alimentación"
+    },
+    {
+        "constantCode": 1,
+        "code": "46597",
+        "description": "Venta al por mayor de maquinaria, equipo, accesorios y partes para la industria textil, confecciones y cuero"
+    },
+    {
+        "constantCode": 1,
+        "code": "46598",
+        "description": "Venta al por mayor de maquinaria, equipo y accesorios para la construcción y explotación de minas y canteras"
+    },
+    {
+        "constantCode": 1,
+        "code": "46599",
+        "description": "Venta al por mayor de otro tipo de maquinaria y equipo con sus accesorios y partes"
+    },
+    {
+        "constantCode": 1,
+        "code": "46610",
+        "description": "Venta al por mayor de otros combustibles sólidos, líquidos, gaseosos y de productos conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46612",
+        "description": "Venta al por mayor de combustibles para automotores, aviones, barcos, maquinaria y otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "46613",
+        "description": "Venta al por mayor de lubricantes, grasas y otros aceites para automotores, maquinaria industrial, etc."
+    },
+    {
+        "constantCode": 1,
+        "code": "46614",
+        "description": "Venta al por mayor de gas propano"
+    },
+    {
+        "constantCode": 1,
+        "code": "46615",
+        "description": "Venta al por mayor de leña y carbón"
+    },
+    {
+        "constantCode": 1,
+        "code": "46620",
+        "description": "Venta al por mayor de metales y minerales metalíferos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46631",
+        "description": "Venta al por mayor de puertas, ventanas, vitrinas y similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "46632",
+        "description": "Venta al por mayor de artículos de ferretería y pinturerías"
+    },
+    {
+        "constantCode": 1,
+        "code": "46633",
+        "description": "Vidrierías"
+    },
+    {
+        "constantCode": 1,
+        "code": "46634",
+        "description": "Venta al por mayor de maderas"
+    },
+    {
+        "constantCode": 1,
+        "code": "46639",
+        "description": "Venta al por mayor de materiales para la construcción n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "46691",
+        "description": "Venta al por mayor de sal industrial sin yodar"
+    },
+    {
+        "constantCode": 1,
+        "code": "46692",
+        "description": "Venta al por mayor de productos intermedios y desechos de origen textil"
+    },
+    {
+        "constantCode": 1,
+        "code": "46693",
+        "description": "Venta al por mayor de productos intermedios y desechos de origen metálico"
+    },
+    {
+        "constantCode": 1,
+        "code": "46694",
+        "description": "Venta al por mayor de productos intermedios y desechos de papel y cartón"
+    },
+    {
+        "constantCode": 1,
+        "code": "46695",
+        "description": "Venta al por mayor fertilizantes, abonos, agroquímicos y productos similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "46696",
+        "description": "Venta al por mayor de productos intermedios y desechos de origen plástico"
+    },
+    {
+        "constantCode": 1,
+        "code": "46697",
+        "description": "Venta al por mayor de tintas para imprenta, productos curtientes y materias y productos colorantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "46698",
+        "description": "Venta de productos intermedios y desechos de origen químico y de caucho"
+    },
+    {
+        "constantCode": 1,
+        "code": "46699",
+        "description": "Venta al por mayor de productos intermedios y desechos ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "46701",
+        "description": "Venta de algodón en oro"
+    },
+    {
+        "constantCode": 1,
+        "code": "46900",
+        "description": "Venta al por mayor de otros productos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46901",
+        "description": "Venta al por mayor de cohetes y otros productos pirotécnicos"
+    },
+    {
+        "constantCode": 1,
         "code": "46902",
         "description": "Venta al por mayor de artículos diversos para consumo humano"
+    },
+    {
+        "constantCode": 1,
+        "code": "46903",
+        "description": "Venta al por mayor de armas de fuego, municiones y accesorios"
+    },
+    {
+        "constantCode": 1,
+        "code": "46904",
+        "description": "Venta al por mayor de toldos y tiendas de campaña de cualquier material"
+    },
+    {
+        "constantCode": 1,
+        "code": "46905",
+        "description": "Venta al por mayor de exhibidores publicitarios y rótulos"
+    },
+    {
+        "constantCode": 1,
+        "code": "46906",
+        "description": "Venta al por mayor de artículos promocionales diversos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47111",
+        "description": "Venta en supermercados"
     },
     {
         "constantCode": 1,
@@ -21,8 +2236,798 @@
     },
     {
         "constantCode": 1,
-        "code": "53201",
-        "description": "Agencia privada de correo y encomiendas"
+        "code": "47119",
+        "description": "Almacenes (venta de diversos artículos)"
+    },
+    {
+        "constantCode": 1,
+        "code": "47190",
+        "description": "Venta al por menor de otros productos en comercios no especializados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47199",
+        "description": "Venta de establecimientos no especializados con surtido compuesto principalmente de alimentos, bebidas y tabaco"
+    },
+    {
+        "constantCode": 1,
+        "code": "47211",
+        "description": "Venta al por menor de frutas y hortalizas"
+    },
+    {
+        "constantCode": 1,
+        "code": "47212",
+        "description": "Venta al por menor de carnes, embutidos y productos de granja"
+    },
+    {
+        "constantCode": 1,
+        "code": "47213",
+        "description": "Venta al por menor de pescado y mariscos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47214",
+        "description": "Venta al por menor de productos lácteos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47215",
+        "description": "Venta al por menor de productos de panadería, repostería y galletas"
+    },
+    {
+        "constantCode": 1,
+        "code": "47216",
+        "description": "Venta al por menor de huevos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47217",
+        "description": "Venta al por menor de carnes y productos cárnicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47218",
+        "description": "Venta al por menor de granos básicos y otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "47219",
+        "description": "Venta al por menor de alimentos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "47221",
+        "description": "Venta al por menor de hielo"
+    },
+    {
+        "constantCode": 1,
+        "code": "47223",
+        "description": "Venta de bebidas no alcohólicas, para su consumo fuera del establecimiento"
+    },
+    {
+        "constantCode": 1,
+        "code": "47224",
+        "description": "Venta de bebidas alcohólicas, para su consumo fuera del establecimiento"
+    },
+    {
+        "constantCode": 1,
+        "code": "47225",
+        "description": "Venta de bebidas alcohólicas para su consumo dentro del establecimiento"
+    },
+    {
+        "constantCode": 1,
+        "code": "47230",
+        "description": "Venta al por menor de tabaco"
+    },
+    {
+        "constantCode": 1,
+        "code": "47300",
+        "description": "Venta de combustibles, lubricantes y otros (gasolineras)"
+    },
+    {
+        "constantCode": 1,
+        "code": "47411",
+        "description": "Venta al por menor de computadoras y equipo periférico"
+    },
+    {
+        "constantCode": 1,
+        "code": "47412",
+        "description": "Venta de equipo y accesorios de telecomunicación"
+    },
+    {
+        "constantCode": 1,
+        "code": "47420",
+        "description": "Venta al por menor de equipo de audio y video"
+    },
+    {
+        "constantCode": 1,
+        "code": "47510",
+        "description": "Venta al por menor de hilados, tejidos y productos textiles de mercería; confecciones para el hogar y textiles n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "47521",
+        "description": "Venta al por menor de productos de madera"
+    },
+    {
+        "constantCode": 1,
+        "code": "47522",
+        "description": "Venta al por menor de artículos de ferretería"
+    },
+    {
+        "constantCode": 1,
+        "code": "47523",
+        "description": "Venta al por menor de productos de pinturerías"
+    },
+    {
+        "constantCode": 1,
+        "code": "47524",
+        "description": "Venta al por menor en vidrierías"
+    },
+    {
+        "constantCode": 1,
+        "code": "47529",
+        "description": "Venta al por menor de materiales de construcción y artículos conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47530",
+        "description": "Venta al por menor de tapices, alfombras y revestimientos de paredes y pisos en comercios especializados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47591",
+        "description": "Venta al por menor de muebles"
+    },
+    {
+        "constantCode": 1,
+        "code": "47592",
+        "description": "Venta al por menor de artículos de bazar"
+    },
+    {
+        "constantCode": 1,
+        "code": "47593",
+        "description": "Venta al por menor de aparatos electrodomésticos, repuestos y accesorios"
+    },
+    {
+        "constantCode": 1,
+        "code": "47594",
+        "description": "Venta al por menor de artículos eléctricos y de iluminación"
+    },
+    {
+        "constantCode": 1,
+        "code": "47598",
+        "description": "Venta al por menor de instrumentos musicales"
+    },
+    {
+        "constantCode": 1,
+        "code": "47610",
+        "description": "Venta al por menor de libros, periódicos y artículos de papelería en comercios especializados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47620",
+        "description": "Venta al por menor de discos láser, cassettes, cintas de video y otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "47630",
+        "description": "Venta al por menor de productos y equipos de deporte"
+    },
+    {
+        "constantCode": 1,
+        "code": "47631",
+        "description": "Venta al por menor de bicicletas, accesorios y repuestos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47640",
+        "description": "Venta al por menor de juegos y juguetes en comercios especializados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47711",
+        "description": "Venta al por menor de prendas de vestir y accesorios de vestir"
+    },
+    {
+        "constantCode": 1,
+        "code": "47712",
+        "description": "Venta al por menor de calzado"
+    },
+    {
+        "constantCode": 1,
+        "code": "47713",
+        "description": "Venta al por menor de artículos de peletería, marroquinería y talabartería"
+    },
+    {
+        "constantCode": 1,
+        "code": "47721",
+        "description": "Venta al por menor de medicamentos farmacéuticos y otros materiales y artículos de uso médico, odontológico y veterinario"
+    },
+    {
+        "constantCode": 1,
+        "code": "47722",
+        "description": "Venta al por menor de productos cosméticos y de tocador"
+    },
+    {
+        "constantCode": 1,
+        "code": "47731",
+        "description": "Venta al por menor de productos de joyería, bisutería, óptica, relojería"
+    },
+    {
+        "constantCode": 1,
+        "code": "47732",
+        "description": "Venta al por menor de plantas, semillas, animales y artículos conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47733",
+        "description": "Venta al por menor de combustibles de uso doméstico (gas propano y gas licuado)"
+    },
+    {
+        "constantCode": 1,
+        "code": "47734",
+        "description": "Venta al por menor de artesanías, artículos cerámicos y recuerdos en general"
+    },
+    {
+        "constantCode": 1,
+        "code": "47735",
+        "description": "Venta al por menor de ataúdes, lápidas y cruces, trofeos, artículos religiosos en general"
+    },
+    {
+        "constantCode": 1,
+        "code": "47736",
+        "description": "Venta al por menor de armas de fuego, municiones y accesorios"
+    },
+    {
+        "constantCode": 1,
+        "code": "47737",
+        "description": "Venta al por menor de artículos de cohetería y pirotécnicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47738",
+        "description": "Venta al por menor de artículos desechables de uso personal y doméstico (servilletas, papel higiénico, pañales, toallas sanitarias, etc.)"
+    },
+    {
+        "constantCode": 1,
+        "code": "47739",
+        "description": "Venta al por menor de otros productos n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "47741",
+        "description": "Venta al por menor de artículos usados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47742",
+        "description": "Venta al por menor de textiles y confecciones usados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47743",
+        "description": "Venta al por menor de libros, revistas, papel y cartón usados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47749",
+        "description": "Venta al por menor de productos usados n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "47811",
+        "description": "Venta al por menor de frutas, verduras y hortalizas"
+    },
+    {
+        "constantCode": 1,
+        "code": "47814",
+        "description": "Venta al por menor de productos lácteos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47815",
+        "description": "Venta al por menor de productos de panadería, galletas y similares"
+    },
+    {
+        "constantCode": 1,
+        "code": "47816",
+        "description": "Venta al por menor de bebidas"
+    },
+    {
+        "constantCode": 1,
+        "code": "47818",
+        "description": "Venta al por menor en tiendas de mercado y puestos"
+    },
+    {
+        "constantCode": 1,
+        "code": "47821",
+        "description": "Venta al por menor de hilados, tejidos y productos textiles de mercería en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47822",
+        "description": "Venta al por menor de artículos textiles excepto confecciones para el hogar en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47823",
+        "description": "Venta al por menor de confecciones textiles para el hogar en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47824",
+        "description": "Venta al por menor de prendas de vestir, accesorios de vestir y similares en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47825",
+        "description": "Venta al por menor de ropa usada"
+    },
+    {
+        "constantCode": 1,
+        "code": "47826",
+        "description": "Venta al por menor de calzado, artículos de marroquinería y talabartería en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47827",
+        "description": "Venta al por menor de artículos de marroquinería y talabartería en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47829",
+        "description": "Venta al por menor de artículos textiles ncp en puestos de mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "47891",
+        "description": "Venta al por menor de animales, flores y productos conexos en puestos de feria y mercados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47892",
+        "description": "Venta al por menor de productos medicinales, cosméticos, de tocador y de limpieza en puestos de ferias y mercados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47893",
+        "description": "Venta al por menor de artículos de bazar en puestos de ferias y mercados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47894",
+        "description": "Venta al por menor de artículos de papel, envases, libros, revistas y conexos en puestos de feria y mercados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47895",
+        "description": "Venta al por menor de materiales de construcción, electrodomésticos, accesorios para autos y similares en puestos de feria y mercados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47896",
+        "description": "Venta al por menor de equipos accesorios para las comunicaciones en puestos de feria y mercados"
+    },
+    {
+        "constantCode": 1,
+        "code": "47899",
+        "description": "Venta al por menor en puestos de ferias y mercados n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "47910",
+        "description": "Venta al por menor por correo o Internet"
+    },
+    {
+        "constantCode": 1,
+        "code": "47990",
+        "description": "Otros tipos de venta al por menor no realizada, en almacenes, puestos de venta o mercado"
+    },
+    {
+        "constantCode": 1,
+        "code": "49110",
+        "description": "Transporte interurbano de pasajeros por ferrocarril"
+    },
+    {
+        "constantCode": 1,
+        "code": "49120",
+        "description": "Transporte de carga por ferrocarril"
+    },
+    {
+        "constantCode": 1,
+        "code": "49211",
+        "description": "Transporte de pasajeros urbanos e interurbano mediante buses"
+    },
+    {
+        "constantCode": 1,
+        "code": "49212",
+        "description": "Transporte de pasajeros interdepartamental mediante microbuses"
+    },
+    {
+        "constantCode": 1,
+        "code": "49213",
+        "description": "Transporte de pasajeros urbanos e interurbano mediante microbuses"
+    },
+    {
+        "constantCode": 1,
+        "code": "49214",
+        "description": "Transporte de pasajeros interdepartamental mediante buses"
+    },
+    {
+        "constantCode": 1,
+        "code": "49221",
+        "description": "Transporte internacional de pasajeros"
+    },
+    {
+        "constantCode": 1,
+        "code": "49222",
+        "description": "Transporte de pasajeros mediante taxis y autos con chofer"
+    },
+    {
+        "constantCode": 1,
+        "code": "49223",
+        "description": "Transporte escolar"
+    },
+    {
+        "constantCode": 1,
+        "code": "49225",
+        "description": "Transporte de pasajeros para excursiones"
+    },
+    {
+        "constantCode": 1,
+        "code": "49226",
+        "description": "Servicios de transporte de personal"
+    },
+    {
+        "constantCode": 1,
+        "code": "49229",
+        "description": "Transporte de pasajeros por vía terrestre ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "49231",
+        "description": "Transporte de carga urbano"
+    },
+    {
+        "constantCode": 1,
+        "code": "49232",
+        "description": "Transporte nacional de carga"
+    },
+    {
+        "constantCode": 1,
+        "code": "49233",
+        "description": "Transporte de carga internacional"
+    },
+    {
+        "constantCode": 1,
+        "code": "49234",
+        "description": "Servicios de mudanza"
+    },
+    {
+        "constantCode": 1,
+        "code": "49235",
+        "description": "Alquiler de vehículos de carga con conductor"
+    },
+    {
+        "constantCode": 1,
+        "code": "49300",
+        "description": "Transporte por oleoducto o gasoducto"
+    },
+    {
+        "constantCode": 1,
+        "code": "50110",
+        "description": "Transporte de pasajeros marítimo y de cabotaje"
+    },
+    {
+        "constantCode": 1,
+        "code": "50120",
+        "description": "Transporte de carga marítimo y de cabotaje"
+    },
+    {
+        "constantCode": 1,
+        "code": "50211",
+        "description": "Transporte de pasajeros por vías de navegación interiores"
+    },
+    {
+        "constantCode": 1,
+        "code": "50212",
+        "description": "Alquiler de equipo de transporte de pasajeros por vías de navegación interior con conductor"
+    },
+    {
+        "constantCode": 1,
+        "code": "50220",
+        "description": "Transporte de carga por vías de navegación interiores"
+    },
+    {
+        "constantCode": 1,
+        "code": "51100",
+        "description": "Transporte aéreo de pasajeros"
+    },
+    {
+        "constantCode": 1,
+        "code": "51201",
+        "description": "Transporte de carga por vía aérea"
+    },
+    {
+        "constantCode": 1,
+        "code": "51202",
+        "description": "Alquiler de equipo de aerotransporte con operadores para el propósito de transportar carga"
+    },
+    {
+        "constantCode": 1,
+        "code": "52101",
+        "description": "Alquiler de instalaciones de almacenamiento en zonas francas"
+    },
+    {
+        "constantCode": 1,
+        "code": "52102",
+        "description": "Alquiler de silos para conservación y almacenamiento de granos"
+    },
+    {
+        "constantCode": 1,
+        "code": "52103",
+        "description": "Alquiler de instalaciones con refrigeración para almacenamiento y conservación de alimentos y otros productos"
+    },
+    {
+        "constantCode": 1,
+        "code": "52109",
+        "description": "Alquiler de bodegas para almacenamiento y depósito n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "52211",
+        "description": "Servicio de garaje y estacionamiento"
+    },
+    {
+        "constantCode": 1,
+        "code": "52212",
+        "description": "Servicios de terminales para el transporte por vía terrestre"
+    },
+    {
+        "constantCode": 1,
+        "code": "52219",
+        "description": "Servicios para el transporte por vía terrestre n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "52220",
+        "description": "Servicios para el transporte acuático"
+    },
+    {
+        "constantCode": 1,
+        "code": "52230",
+        "description": "Servicios para el transporte aéreo"
+    },
+    {
+        "constantCode": 1,
+        "code": "52240",
+        "description": "Manipulación de carga"
+    },
+    {
+        "constantCode": 1,
+        "code": "52290",
+        "description": "Servicios para el transporte ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "52291",
+        "description": "Agencias de tramitaciones aduanales"
+    },
+    {
+        "constantCode": 1,
+        "code": "53100",
+        "description": "Servicios de correo nacional"
+    },
+    {
+        "constantCode": 1,
+        "code": "53200",
+        "description": "Actividades de correo distintas a las actividades postales nacionales"
+    },
+    {
+        "constantCode": 1,
+        "code": "55101",
+        "description": "Actividades de alojamiento para estancias cortas"
+    },
+    {
+        "constantCode": 1,
+        "code": "55102",
+        "description": "Hoteles"
+    },
+    {
+        "constantCode": 1,
+        "code": "55200",
+        "description": "Actividades de campamentos, parques de vehículos de recreo y parques de caravanas"
+    },
+    {
+        "constantCode": 1,
+        "code": "55900",
+        "description": "Alojamiento n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "56101",
+        "description": "Restaurantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "56106",
+        "description": "Pupusería"
+    },
+    {
+        "constantCode": 1,
+        "code": "56107",
+        "description": "Actividades varias de restaurantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "56108",
+        "description": "Comedores"
+    },
+    {
+        "constantCode": 1,
+        "code": "56109",
+        "description": "Merenderos ambulantes"
+    },
+    {
+        "constantCode": 1,
+        "code": "56210",
+        "description": "Preparación de comida para eventos especiales"
+    },
+    {
+        "constantCode": 1,
+        "code": "56291",
+        "description": "Servicios de provisión de comidas por contrato"
+    },
+    {
+        "constantCode": 1,
+        "code": "56292",
+        "description": "Servicios de concesión de cafetines y chalet en empresas e instituciones"
+    },
+    {
+        "constantCode": 1,
+        "code": "56299",
+        "description": "Servicios de preparación de comidas ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "56301",
+        "description": "Servicio de expendio de bebidas en salones y bares"
+    },
+    {
+        "constantCode": 1,
+        "code": "56302",
+        "description": "Servicio de expendio de bebidas en puestos callejeros, mercados y ferias"
+    },
+    {
+        "constantCode": 1,
+        "code": "58110",
+        "description": "Edición de libros, folletos, partituras y otras ediciones distintas a estas"
+    },
+    {
+        "constantCode": 1,
+        "code": "58120",
+        "description": "Edición de directorios y listas de correos"
+    },
+    {
+        "constantCode": 1,
+        "code": "58130",
+        "description": "Edición de periódicos, revistas y otras publicaciones periódicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "58190",
+        "description": "Otras actividades de edición"
+    },
+    {
+        "constantCode": 1,
+        "code": "58200",
+        "description": "Edición de programas informáticos (software)"
+    },
+    {
+        "constantCode": 1,
+        "code": "59110",
+        "description": "Actividades de producción cinematográfica"
+    },
+    {
+        "constantCode": 1,
+        "code": "59120",
+        "description": "Actividades de post producción de películas, videos y programas de televisión"
+    },
+    {
+        "constantCode": 1,
+        "code": "59130",
+        "description": "Actividades de distribución de películas cinematográficas, videos y programas de televisión"
+    },
+    {
+        "constantCode": 1,
+        "code": "59140",
+        "description": "Actividades de exhibición de películas cinematográficas y cintas de vídeo"
+    },
+    {
+        "constantCode": 1,
+        "code": "59200",
+        "description": "Actividades de edición y grabación de música"
+    },
+    {
+        "constantCode": 1,
+        "code": "60100",
+        "description": "Servicios de difusión de radio"
+    },
+    {
+        "constantCode": 1,
+        "code": "60201",
+        "description": "Actividades de programación y difusión de televisión abierta"
+    },
+    {
+        "constantCode": 1,
+        "code": "60202",
+        "description": "Actividades de suscripción y difusión de televisión por cable y/o suscripción"
+    },
+    {
+        "constantCode": 1,
+        "code": "60299",
+        "description": "Servicios de televisión, incluye televisión por cable"
+    },
+    {
+        "constantCode": 1,
+        "code": "60900",
+        "description": "Programación y transmisión de radio y televisión"
+    },
+    {
+        "constantCode": 1,
+        "code": "61101",
+        "description": "Servicio de telefonía"
+    },
+    {
+        "constantCode": 1,
+        "code": "61102",
+        "description": "Servicio de Internet"
+    },
+    {
+        "constantCode": 1,
+        "code": "61103",
+        "description": "Servicio de telefonía fija"
+    },
+    {
+        "constantCode": 1,
+        "code": "61109",
+        "description": "Servicio de Internet n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "61201",
+        "description": "Servicios de telefonía celular"
+    },
+    {
+        "constantCode": 1,
+        "code": "61202",
+        "description": "Servicios de Internet inalámbrico"
+    },
+    {
+        "constantCode": 1,
+        "code": "61209",
+        "description": "Servicios de telecomunicaciones inalámbrico n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "61301",
+        "description": "Telecomunicaciones satelitales"
+    },
+    {
+        "constantCode": 1,
+        "code": "61309",
+        "description": "Comunicación vía satélite n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "61900",
+        "description": "Actividades de telecomunicación n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "62010",
+        "description": "Programación informática"
     },
     {
         "constantCode": 1,
@@ -31,22 +3036,797 @@
     },
     {
         "constantCode": 1,
+        "code": "62090",
+        "description": "Otras actividades de tecnología de información y servicios de computadora"
+    },
+    {
+        "constantCode": 1,
+        "code": "63110",
+        "description": "Procesamiento de datos y actividades relacionadas"
+    },
+    {
+        "constantCode": 1,
+        "code": "63120",
+        "description": "Portales WEB"
+    },
+    {
+        "constantCode": 1,
+        "code": "63910",
+        "description": "Servicios de Agencias de Noticias"
+    },
+    {
+        "constantCode": 1,
+        "code": "63990",
+        "description": "Otros servicios de información n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "64110",
+        "description": "Servicios provistos por el Banco Central de El Salvador"
+    },
+    {
+        "constantCode": 1,
+        "code": "64190",
+        "description": "Bancos"
+    },
+    {
+        "constantCode": 1,
+        "code": "64192",
+        "description": "Entidades dedicadas al envío de remesas"
+    },
+    {
+        "constantCode": 1,
+        "code": "64199",
+        "description": "Otras entidades financieras"
+    },
+    {
+        "constantCode": 1,
+        "code": "64200",
+        "description": "Actividades de sociedades de cartera"
+    },
+    {
+        "constantCode": 1,
+        "code": "64300",
+        "description": "Fideicomisos, fondos y otras fuentes de financiamiento"
+    },
+    {
+        "constantCode": 1,
+        "code": "64910",
+        "description": "Arrendamientos financieros"
+    },
+    {
+        "constantCode": 1,
+        "code": "64920",
+        "description": "Asociaciones cooperativas de ahorro y crédito dedicadas a la intermediación financiera"
+    },
+    {
+        "constantCode": 1,
+        "code": "64921",
+        "description": "Instituciones emisoras de tarjetas de crédito y otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "64922",
+        "description": "Tipos de crédito ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "64928",
+        "description": "Prestamistas y casas de empeño"
+    },
+    {
+        "constantCode": 1,
+        "code": "64990",
+        "description": "Actividades de servicios financieros, excepto la financiación de planes de seguros y de pensiones n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "65110",
+        "description": "Planes de seguros de vida"
+    },
+    {
+        "constantCode": 1,
+        "code": "65120",
+        "description": "Planes de seguro excepto de vida"
+    },
+    {
+        "constantCode": 1,
+        "code": "65199",
+        "description": "Seguros generales de todo tipo"
+    },
+    {
+        "constantCode": 1,
+        "code": "65200",
+        "description": "Planes de seguro"
+    },
+    {
+        "constantCode": 1,
+        "code": "65300",
+        "description": "Planes de pensiones"
+    },
+    {
+        "constantCode": 1,
+        "code": "66110",
+        "description": "Administración de mercados financieros (Bolsa de Valores)"
+    },
+    {
+        "constantCode": 1,
+        "code": "66120",
+        "description": "Actividades bursátiles (Corredores de Bolsa)"
+    },
+    {
+        "constantCode": 1,
+        "code": "66190",
+        "description": "Actividades auxiliares de la intermediación financiera ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "66210",
+        "description": "Evaluación de riesgos y daños"
+    },
+    {
+        "constantCode": 1,
+        "code": "66220",
+        "description": "Actividades de agentes y corredores de seguros"
+    },
+    {
+        "constantCode": 1,
+        "code": "66290",
+        "description": "Otras actividades auxiliares de seguros y fondos de pensiones"
+    },
+    {
+        "constantCode": 1,
+        "code": "66300",
+        "description": "Actividades de administración de fondos"
+    },
+    {
+        "constantCode": 1,
+        "code": "68101",
+        "description": "Servicio de alquiler y venta de lotes en cementerios"
+    },
+    {
+        "constantCode": 1,
+        "code": "68109",
+        "description": "Actividades inmobiliarias realizadas con bienes propios o arrendados n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "68200",
+        "description": "Actividades Inmobiliarias Realizadas a Cambio de una Retribución o por Contrata"
+    },
+    {
+        "constantCode": 1,
+        "code": "69100",
+        "description": "Actividades jurídicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "69200",
+        "description": "Actividades de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos"
+    },
+    {
+        "constantCode": 1,
+        "code": "70100",
+        "description": "Actividades de oficinas centrales de sociedades de cartera"
+    },
+    {
+        "constantCode": 1,
         "code": "70200",
         "description": "Actividades de consultoría en gestión empresarial"
     },
     {
         "constantCode": 1,
+        "code": "71101",
+        "description": "Servicios de arquitectura y planificación urbana y servicios conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "71102",
+        "description": "Servicios de ingeniería"
+    },
+    {
+        "constantCode": 1,
+        "code": "71103",
+        "description": "Servicios de agrimensura, topografía, cartografía, prospección y geofísica y servicios conexos"
+    },
+    {
+        "constantCode": 1,
+        "code": "71200",
+        "description": "Ensayos y análisis técnicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "72100",
+        "description": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería"
+    },
+    {
+        "constantCode": 1,
+        "code": "72199",
+        "description": "Investigaciones científicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "72200",
+        "description": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades científica y desarrollo"
+    },
+    {
+        "constantCode": 1,
+        "code": "73100",
+        "description": "Publicidad"
+    },
+    {
+        "constantCode": 1,
+        "code": "73200",
+        "description": "Investigación de mercados y realización de encuestas de opinión pública"
+    },
+    {
+        "constantCode": 1,
+        "code": "74100",
+        "description": "Actividades de diseño especializado"
+    },
+    {
+        "constantCode": 1,
+        "code": "74200",
+        "description": "Actividades de fotografía"
+    },
+    {
+        "constantCode": 1,
+        "code": "74900",
+        "description": "Servicios profesionales y científicos ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "75000",
+        "description": "Actividades veterinarias"
+    },
+    {
+        "constantCode": 1,
+        "code": "77101",
+        "description": "Alquiler de equipo de transporte terrestre"
+    },
+    {
+        "constantCode": 1,
+        "code": "77102",
+        "description": "Alquiler de equipo de transporte acuático"
+    },
+    {
+        "constantCode": 1,
+        "code": "77103",
+        "description": "Alquiler de equipo de transporte por vía aérea"
+    },
+    {
+        "constantCode": 1,
+        "code": "77210",
+        "description": "Alquiler y arrendamiento de equipo de recreo y deportivo"
+    },
+    {
+        "constantCode": 1,
+        "code": "77220",
+        "description": "Alquiler de cintas de video y discos"
+    },
+    {
+        "constantCode": 1,
+        "code": "77290",
+        "description": "Alquiler de otros efectos personales y enseres domésticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "77300",
+        "description": "Alquiler de maquinaria y equipo"
+    },
+    {
+        "constantCode": 1,
+        "code": "77400",
+        "description": "Arrendamiento de productos de propiedad intelectual"
+    },
+    {
+        "constantCode": 1,
+        "code": "78100",
+        "description": "Obtención y dotación de personal"
+    },
+    {
+        "constantCode": 1,
+        "code": "78200",
+        "description": "Actividades de las agencias de trabajo temporal"
+    },
+    {
+        "constantCode": 1,
+        "code": "78300",
+        "description": "Dotación de recursos humanos y gestión; gestión de las funciones de recursos humanos"
+    },
+    {
+        "constantCode": 1,
+        "code": "79110",
+        "description": "Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas"
+    },
+    {
+        "constantCode": 1,
+        "code": "79120",
+        "description": "Actividades de los operadores turísticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "79900",
+        "description": "Otros servicios de reservas y actividades relacionadas"
+    },
+    {
+        "constantCode": 1,
+        "code": "80100",
+        "description": "Servicios de seguridad privados"
+    },
+    {
+        "constantCode": 1,
+        "code": "80201",
+        "description": "Actividades de servicios de sistemas de seguridad"
+    },
+    {
+        "constantCode": 1,
+        "code": "80202",
+        "description": "Actividades para la prestación de sistemas de seguridad"
+    },
+    {
+        "constantCode": 1,
+        "code": "80300",
+        "description": "Actividades de investigación"
+    },
+    {
+        "constantCode": 1,
+        "code": "81100",
+        "description": "Actividades combinadas de mantenimiento de edificios e instalaciones"
+    },
+    {
+        "constantCode": 1,
+        "code": "81210",
+        "description": "Limpieza general de edificios"
+    },
+    {
+        "constantCode": 1,
+        "code": "81290",
+        "description": "Otras actividades combinadas de mantenimiento de edificios e instalaciones ncps"
+    },
+    {
+        "constantCode": 1,
+        "code": "82110",
+        "description": "Servicios administrativos de oficinas"
+    },
+    {
+        "constantCode": 1,
+        "code": "82190",
+        "description": "Servicio de fotocopiado y similares, excepto en imprentas"
+    },
+    {
+        "constantCode": 1,
+        "code": "82200",
+        "description": "Actividades de las centrales de llamadas (call center)"
+    },
+    {
+        "constantCode": 1,
+        "code": "82300",
+        "description": "Organización de convenciones y ferias de negocios"
+    },
+    {
+        "constantCode": 1,
+        "code": "82910",
+        "description": "Actividades de agencias de cobro y oficinas de crédito"
+    },
+    {
+        "constantCode": 1,
+        "code": "82921",
+        "description": "Servicios de envase y empaque de productos alimenticios"
+    },
+    {
+        "constantCode": 1,
+        "code": "82922",
+        "description": "Servicios de envase y empaque de productos medicinales"
+    },
+    {
+        "constantCode": 1,
+        "code": "82929",
+        "description": "Servicio de envase y empaque ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "82990",
+        "description": "Actividades de apoyo empresariales ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "84110",
+        "description": "Actividades de la Administración Pública en general"
+    },
+    {
+        "constantCode": 1,
+        "code": "84111",
+        "description": "Alcaldías municipales"
+    },
+    {
+        "constantCode": 1,
+        "code": "84120",
+        "description": "Regulación de las actividades de prestación de servicios sanitarios, educativos, culturales y otros servicios sociales, excepto seguridad social"
+    },
+    {
+        "constantCode": 1,
+        "code": "84130",
+        "description": "Regulación y facilitación de la actividad económica"
+    },
+    {
+        "constantCode": 1,
+        "code": "84210",
+        "description": "Actividades de administración y funcionamiento del Ministerio de Relaciones Exteriores"
+    },
+    {
+        "constantCode": 1,
+        "code": "84220",
+        "description": "Actividades de defensa"
+    },
+    {
+        "constantCode": 1,
+        "code": "84230",
+        "description": "Actividades de mantenimiento del orden público y de seguridad"
+    },
+    {
+        "constantCode": 1,
+        "code": "84300",
+        "description": "Actividades de planes de seguridad social de afiliación obligatoria"
+    },
+    {
+        "constantCode": 1,
+        "code": "85101",
+        "description": "Guardería educativa"
+    },
+    {
+        "constantCode": 1,
+        "code": "85102",
+        "description": "Enseñanza preescolar o parvularia"
+    },
+    {
+        "constantCode": 1,
+        "code": "85103",
+        "description": "Enseñanza primaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "85104",
+        "description": "Servicio de educación preescolar y primaria integrada"
+    },
+    {
+        "constantCode": 1,
+        "code": "85211",
+        "description": "Enseñanza secundaria tercer ciclo (7°, 8° y 9°)"
+    },
+    {
+        "constantCode": 1,
+        "code": "85212",
+        "description": "Enseñanza secundaria de formación general bachillerato"
+    },
+    {
+        "constantCode": 1,
+        "code": "85221",
+        "description": "Enseñanza secundaria de formación técnica y profesional"
+    },
+    {
+        "constantCode": 1,
+        "code": "85222",
+        "description": "Enseñanza secundaria de formación técnica y profesional integrada con enseñanza primaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "85301",
+        "description": "Enseñanza superior universitaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "85302",
+        "description": "Enseñanza superior no universitaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "85303",
+        "description": "Enseñanza superior integrada a educación secundaria y/o primaria"
+    },
+    {
+        "constantCode": 1,
+        "code": "85410",
+        "description": "Educación deportiva y recreativa"
+    },
+    {
+        "constantCode": 1,
+        "code": "85420",
+        "description": "Educación cultural"
+    },
+    {
+        "constantCode": 1,
+        "code": "85490",
+        "description": "Otros tipos de enseñanza n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "85499",
+        "description": "Enseñanza formal"
+    },
+    {
+        "constantCode": 1,
+        "code": "85500",
+        "description": "Servicios de apoyo a la enseñanza"
+    },
+    {
+        "constantCode": 1,
+        "code": "86100",
+        "description": "Actividades de hospitales"
+    },
+    {
+        "constantCode": 1,
+        "code": "86201",
+        "description": "Clínicas médicas"
+    },
+    {
+        "constantCode": 1,
+        "code": "86202",
+        "description": "Servicios de Odontología"
+    },
+    {
+        "constantCode": 1,
+        "code": "86203",
+        "description": "Servicios médicos"
+    },
+    {
+        "constantCode": 1,
+        "code": "86901",
+        "description": "Servicios de análisis y estudios de diagnóstico"
+    },
+    {
+        "constantCode": 1,
+        "code": "86902",
+        "description": "Actividades de atención de la salud humana"
+    },
+    {
+        "constantCode": 1,
+        "code": "86909",
+        "description": "Otros Servicio relacionados con la salud ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "87100",
+        "description": "Residencias de ancianos con atención de enfermería"
+    },
+    {
+        "constantCode": 1,
+        "code": "87200",
+        "description": "Instituciones dedicadas al tratamiento del retraso mental, problemas de salud mental y el uso indebido de sustancias nocivas"
+    },
+    {
+        "constantCode": 1,
+        "code": "87300",
+        "description": "Instituciones dedicadas al cuidado de ancianos y discapacitados"
+    },
+    {
+        "constantCode": 1,
+        "code": "87900",
+        "description": "Actividades de asistencia a niños y jóvenes"
+    },
+    {
+        "constantCode": 1,
+        "code": "87901",
+        "description": "Otras actividades de atención en instituciones"
+    },
+    {
+        "constantCode": 1,
+        "code": "88100",
+        "description": "Actividades de asistencia sociales sin alojamiento para ancianos y discapacitados"
+    },
+    {
+        "constantCode": 1,
+        "code": "88900",
+        "description": "Servicios sociales sin alojamiento ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "90000",
+        "description": "Actividades creativas artísticas y de esparcimiento"
+    },
+    {
+        "constantCode": 1,
+        "code": "91010",
+        "description": "Actividades de bibliotecas y archivos"
+    },
+    {
+        "constantCode": 1,
+        "code": "91020",
+        "description": "Actividades de museos y preservación de lugares y edificios históricos"
+    },
+    {
+        "constantCode": 1,
         "code": "91030",
-        "description": "Actividades de jardines botánicos, zoológicos y de reservas"
+        "description": "Actividades de jardines botánicos, zoológicos y de reservas naturales"
+    },
+    {
+        "constantCode": 1,
+        "code": "92000",
+        "description": "Actividades de juegos y apuestas"
+    },
+    {
+        "constantCode": 1,
+        "code": "93110",
+        "description": "Gestión de instalaciones deportivas"
+    },
+    {
+        "constantCode": 1,
+        "code": "93120",
+        "description": "Actividades de clubes deportivos"
+    },
+    {
+        "constantCode": 1,
+        "code": "93190",
+        "description": "Otras actividades deportivas"
+    },
+    {
+        "constantCode": 1,
+        "code": "93210",
+        "description": "Actividades de parques de atracciones y parques temáticos"
+    },
+    {
+        "constantCode": 1,
+        "code": "93291",
+        "description": "Discotecas y salas de baile"
+    },
+    {
+        "constantCode": 1,
+        "code": "93298",
+        "description": "Centros vacacionales"
+    },
+    {
+        "constantCode": 1,
+        "code": "93299",
+        "description": "Actividades de esparcimiento ncp"
+    },
+    {
+        "constantCode": 1,
+        "code": "94110",
+        "description": "Actividades de organizaciones empresariales y de empleadores"
+    },
+    {
+        "constantCode": 1,
+        "code": "94120",
+        "description": "Actividades de organizaciones profesionales"
+    },
+    {
+        "constantCode": 1,
+        "code": "94200",
+        "description": "Actividades de sindicatos"
+    },
+    {
+        "constantCode": 1,
+        "code": "94910",
+        "description": "Actividades de organizaciones religiosas"
+    },
+    {
+        "constantCode": 1,
+        "code": "94920",
+        "description": "Actividades de organizaciones políticas"
+    },
+    {
+        "constantCode": 1,
+        "code": "94990",
+        "description": "Actividades de asociaciones n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "95110",
+        "description": "Reparación de computadoras y equipo periférico"
+    },
+    {
+        "constantCode": 1,
+        "code": "95120",
+        "description": "Reparación de equipo de comunicación"
+    },
+    {
+        "constantCode": 1,
+        "code": "95210",
+        "description": "Reparación de aparatos electrónicos de consumo"
+    },
+    {
+        "constantCode": 1,
+        "code": "95220",
+        "description": "Reparación de aparatos doméstico y equipo de hogar y jardín"
+    },
+    {
+        "constantCode": 1,
+        "code": "95230",
+        "description": "Reparación de calzado y artículos de cuero"
+    },
+    {
+        "constantCode": 1,
+        "code": "95240",
+        "description": "Reparación de muebles y accesorios para el hogar"
+    },
+    {
+        "constantCode": 1,
+        "code": "95291",
+        "description": "Reparación de instrumentos musicales"
+    },
+    {
+        "constantCode": 1,
+        "code": "95292",
+        "description": "Servicios de cerrajería y copiado de llaves"
+    },
+    {
+        "constantCode": 1,
+        "code": "95293",
+        "description": "Reparación de joyas y relojes"
+    },
+    {
+        "constantCode": 1,
+        "code": "95294",
+        "description": "Reparación de bicicletas, sillas de ruedas y rodados n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "95299",
+        "description": "Reparaciones de enseres personales n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "96010",
+        "description": "Lavado y limpieza de prendas de tela y de piel, incluso la limpieza en seco"
+    },
+    {
+        "constantCode": 1,
+        "code": "96020",
+        "description": "Peluquería y otros tratamientos de belleza"
+    },
+    {
+        "constantCode": 1,
+        "code": "96030",
+        "description": "Pompas fúnebres y actividades conexas"
+    },
+    {
+        "constantCode": 1,
+        "code": "96091",
+        "description": "Servicios de sauna y otros servicios para la estética corporal n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "96092",
+        "description": "Servicios n.c.p."
+    },
+    {
+        "constantCode": 1,
+        "code": "97000",
+        "description": "Actividad de los hogares en calidad de empleadores de personal doméstico"
+    },
+    {
+        "constantCode": 1,
+        "code": "98100",
+        "description": "Actividades indiferenciadas de producción de bienes de los hogares privados para uso propio"
+    },
+    {
+        "constantCode": 1,
+        "code": "98200",
+        "description": "Actividades indiferenciadas de producción de servicios de los hogares privados para uso propio"
+    },
+    {
+        "constantCode": 1,
+        "code": "10001",
+        "description": "Empleados"
     },
     {
         "constantCode": 1,
         "code": "10002",
-        "description": "Pensionado"
+        "description": "Jubilado"
     },
     {
         "constantCode": 1,
-        "code": "10006",
-        "description": "Comerciante"
+        "code": "10003",
+        "description": "Estudiante"
+    },
+    {
+        "constantCode": 1,
+        "code": "10004",
+        "description": "Desempleado"
+    },
+    {
+        "constantCode": 1,
+        "code": "10005",
+        "description": "Otros"
     }
 ]

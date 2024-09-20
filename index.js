@@ -31,7 +31,7 @@ const insertData = () => {
                 constantCode: item.constantCode,
                 code: item.code.toString()
             };*/
-            if (item.constantCode) {
+            if (item.constantCode && putRequest.TableName !== 'felsv_qa_City') {
                 if (typeof item.constantCode === 'number') {
                     putRequest.Key.constantCode = item.constantCode;
                 } else if (typeof item.constantCode === 'string') {
@@ -60,14 +60,18 @@ const insertData = () => {
             } else if (item.stateCode) {
                 if (typeof item.stateCode === 'number') {
                     putRequest.Key.stateCode = item.stateCode;
+                    console.log('stateCode number');
                 } else if (typeof item.stateCode === 'string') {
                     putRequest.Key.stateCode = item.stateCode.toString();
+                    console.log('stateCode string');
                 }
                 if (item.code) {
                     if (typeof item.code === 'number') {
+                        console.log('code number');
                         putRequest.Key.code = item.code;
                     } else if (typeof item.code === 'string') {
                         putRequest.Key.code = item.code.toString();
+                        console.log('code string');
                     }
                 }
             }

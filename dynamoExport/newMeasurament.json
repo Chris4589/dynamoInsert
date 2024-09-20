@@ -1,298 +1,299 @@
 [
     {
         "constantCode": 1,
-        "code": "1",
+        "code": 1,
         "description": "metro"
     },
     {
         "constantCode": 1,
-        "code": "2",
+        "code": 2,
         "description": "yarda"
     },
     {
         "constantCode": 1,
-        "code": "03",
+        "code": 3,
         "description": "Vara",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "04",
+        "code": 4,
         "description": "Pie",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "05",
+        "code": 5,
         "description": "Pulgada",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "6",
+        "code": 6,
         "description": "milímetro"
     },
     {
         "constantCode": 1,
-        "code": "08",
+        "code": 8,
         "description": "Milla cuadrada",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "9",
+        "code": 9,
         "description": "kilómetro cuadrado"
     },
     {
         "constantCode": 1,
-        "code": "10",
+        "code": 10,
         "description": "Hectárea"
     },
     {
         "constantCode": 1,
-        "code": "11",
+        "code": 11,
         "description": "Manzana",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "12",
+        "code": 12,
         "description": "Acre",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "13",
+        "code": 13,
         "description": "metro cuadrado"
     },
     {
         "constantCode": 1,
-        "code": "14",
+        "code": 14,
         "description": "Yarda cuadrada",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "15",
+        "code": 15,
         "description": "Vara cuadrada"
     },
     {
         "constantCode": 1,
-        "code": "16",
+        "code": 16,
         "description": "Pie cuadrado",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "17",
+        "code": 17,
         "description": "Pulgada cuadrada",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "18",
+        "code": 18,
         "description": "metro cúbico"
     },
     {
         "constantCode": 1,
-        "code": "19",
+        "code": 19,
         "description": "Yarda cúbica",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "20",
+        "code": 20,
         "description": "Barril"
     },
     {
         "constantCode": 1,
-        "code": "21",
+        "code": 21,
         "description": "Pie cúbico",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "22",
+        "code": 22,
         "description": "Galón"
     },
     {
         "constantCode": 1,
-        "code": "23",
+        "code": 23,
         "description": "Litro"
     },
     {
         "constantCode": 1,
-        "code": "24",
+        "code": 24,
         "description": "Botella"
     },
     {
         "constantCode": 1,
-        "code": "25",
+        "code": 25,
         "description": "Pulgada cúbica",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "26",
+        "code": 26,
         "description": "Mililitro"
     },
     {
         "constantCode": 1,
-        "code": "27",
+        "code": 27,
         "description": "Onza fluida",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "29",
-        "description": "Tonelada métrica"
+        "code": 29,
+        "description": "Tonelada métrica",
+        "delete": true
     },
     {
         "constantCode": 1,
-        "code": "30",
+        "code": 30,
         "description": "Tonelada",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "31",
+        "code": 31,
         "description": "Quintal métrico",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "32",
+        "code": 32,
         "description": "Quintal"
     },
     {
         "constantCode": 1,
-        "code": "33",
+        "code": 33,
         "description": "Arroba"
     },
     {
         "constantCode": 1,
-        "code": "34",
+        "code": 34,
         "description": "Kilogramo"
     },
     {
         "constantCode": 1,
-        "code": "35",
+        "code": 35,
         "description": "Libra troy",
         "delete": true
     },
     {
         "constantCode": 1,
-        "code": "36",
+        "code": 36,
         "description": "Libra"
     },
     {
         "constantCode": 1,
-        "code": "37",
+        "code": 37,
         "description": "Onza troy"
     },
     {
         "constantCode": 1,
-        "code": "38",
+        "code": 38,
         "description": "Onza"
     },
     {
         "constantCode": 1,
-        "code": "39",
+        "code": 39,
         "description": "Gramo"
     },
     {
         "constantCode": 1,
-        "code": "40",
+        "code": 40,
         "description": "Miligramo"
     },
     {
         "constantCode": 1,
-        "code": "42",
+        "code": 42,
         "description": "Megawatt"
     },
     {
         "constantCode": 1,
-        "code": "43",
+        "code": 43,
         "description": "Kilowatt"
     },
     {
         "constantCode": 1,
-        "code": "44",
+        "code": 44,
         "description": "Watt"
     },
     {
         "constantCode": 1,
-        "code": "45",
+        "code": 45,
         "description": "Megavoltio-amperio"
     },
     {
         "constantCode": 1,
-        "code": "46",
+        "code": 46,
         "description": "Kilovoltio-amperio"
     },
     {
         "constantCode": 1,
-        "code": "47",
+        "code": 47,
         "description": "Voltio-amperio"
     },
     {
         "constantCode": 1,
-        "code": "49",
+        "code": 49,
         "description": "Gigawatt-hora"
     },
     {
         "constantCode": 1,
-        "code": "50",
+        "code": 50,
         "description": "Megawatt-hora"
     },
     {
         "constantCode": 1,
-        "code": "51",
+        "code": 51,
         "description": "Kilowatt-hora"
     },
     {
         "constantCode": 1,
-        "code": "52",
+        "code": 52,
         "description": "Watt-hora"
     },
     {
         "constantCode": 1,
-        "code": "53",
+        "code": 53,
         "description": "Kilovoltio"
     },
     {
         "constantCode": 1,
-        "code": "54",
+        "code": 54,
         "description": "Voltio"
     },
     {
         "constantCode": 1,
-        "code": "55",
+        "code": 55,
         "description": "Millar"
     },
     {
         "constantCode": 1,
-        "code": "56",
+        "code": 56,
         "description": "Medio millar"
     },
     {
         "constantCode": 1,
-        "code": "57",
+        "code": 57,
         "description": "Ciento"
     },
     {
         "constantCode": 1,
-        "code": "58",
+        "code": 58,
         "description": "Docena"
     },
     {
         "constantCode": 1,
-        "code": "59",
+        "code": 59,
         "description": "Unidad"
     },
     {
         "constantCode": 1,
-        "code": "99",
+        "code": 99,
         "description": "Otra"
     }
 ]
