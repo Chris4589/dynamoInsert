@@ -1,4 +1,4 @@
 {
-  "filename": "dynamoExport/newRegimen.json",
-  "tableName": "felsv_qa_RegimenType"
+  "filename": "dynamoExport/newTransport.json",
+  "tableName": "felsv_qa_TransportMode"
 }

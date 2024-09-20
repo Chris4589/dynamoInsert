@@ -22,7 +22,12 @@
     {
         "constantCode": 1,
         "code": 6,
-        "description": "Correo",
+        "description": "Correo"
+    },
+    {
+        "constantCode": 1,
+        "code": 7,
+        "description": "Multimodal, Terrestre-Marítimo- aéreo",
         "delete": true
     }
 ]
