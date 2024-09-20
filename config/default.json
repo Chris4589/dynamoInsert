@@ -1,4 +1,4 @@
 {
-  "filename": "dynamoExport/newTransport.json",
-  "tableName": "felsv_qa_TransportMode"
+  "filename": "dynamoExport/countries.json",
+  "tableName": "felsv_qa_CountryCoding"
 }

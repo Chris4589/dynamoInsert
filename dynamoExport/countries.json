@@ -1,8 +1,8 @@
 [
     {
         "code": 1,
-        "orderCode": "Al",
-        "description": "ANGUILA"
+        "orderCode": "AI",
+        "description": "Anguila"
     },
     {
         "code": 1,
@@ -12,92 +12,92 @@
     {
         "code": 1,
         "orderCode": "TC",
-        "description": "ISLAS TURCAS Y CAICOS"
+        "description": "Islas Turcas y Caicos"
     },
     {
         "code": 1,
         "orderCode": "LT",
-        "description": "LITUANIA"
+        "description": "Lituania"
     },
     {
         "code": 1,
         "orderCode": "AF",
-        "description": "AFGANISTÁN"
+        "description": "Afganistán"
     },
     {
         "code": 1,
         "orderCode": "AL",
-        "description": "ALBANIA"
+        "description": "Albania"
     },
     {
         "code": 1,
         "orderCode": "AD",
-        "description": "ANDORRA"
+        "description": "Andorra"
     },
     {
         "code": 1,
         "orderCode": "AO",
-        "description": "ANGOLA"
+        "description": "Angola"
     },
     {
         "code": 1,
         "orderCode": "AG",
-        "description": "ANTIGUA Y BARBUDA"
+        "description": "Antigua y Barbuda"
     },
     {
         "code": 1,
         "orderCode": "SA",
-        "description": "ARABIA SAUDITA"
+        "description": "Arabia Saudita"
     },
     {
         "code": 1,
         "orderCode": "DZ",
-        "description": "ARGELIA"
+        "description": "Argelia"
     },
     {
         "code": 1,
         "orderCode": "AR",
-        "description": "ARGENTINA"
+        "description": "Argentina"
     },
     {
         "code": 1,
         "orderCode": "AU",
-        "description": "AUSTRALIA"
+        "description": "Australia"
     },
     {
         "code": 1,
         "orderCode": "AT",
-        "description": "AUSTRIA"
+        "description": "Austria"
     },
     {
         "code": 1,
         "orderCode": "BD",
-        "description": "BANGLADESH"
+        "description": "Bangladesh"
     },
     {
         "code": 1,
         "orderCode": "BH",
-        "description": "BAHRÉIN"
+        "description": "Bahrein"
     },
     {
         "code": 1,
         "orderCode": "BB",
-        "description": "BARBADOS"
+        "description": "Barbados"
     },
     {
         "code": 1,
         "orderCode": "BE",
-        "description": "BÉLGICA"
+        "description": "Bélgica"
     },
     {
         "code": 1,
         "orderCode": "BZ",
-        "description": "BELICE"
+        "description": "Belice"
     },
     {
         "code": 1,
         "orderCode": "BJ",
-        "description": "BENÍN"
+        "description": "Benin"
     },
     {
         "code": 1,
@@ -107,52 +107,52 @@
     {
         "code": 1,
         "orderCode": "BO",
-        "description": "BOLIVIA"
+        "description": "Bolivia"
     },
     {
         "code": 1,
         "orderCode": "BW",
-        "description": "BOTSWANA"
+        "description": "Botswana"
     },
     {
         "code": 1,
         "orderCode": "BR",
-        "description": "BRASIL"
+        "description": "Brasil"
     },
     {
         "code": 1,
         "orderCode": "BN",
-        "description": "BRUNÉI"
+        "description": "Brunei"
     },
     {
         "code": 1,
         "orderCode": "BI",
-        "description": "BURUNDI"
+        "description": "Brundi"
     },
     {
         "code": 1,
         "orderCode": "BT",
-        "description": "BUTÁN"
+        "description": "Bután"
     },
     {
         "code": 1,
         "orderCode": "CV",
-        "description": "CABO VERDE"
+        "description": "Cabo Verde"
     },
     {
         "code": 1,
         "orderCode": "KH",
-        "description": "CAMBOYA"
+        "description": "Camboya"
     },
     {
         "code": 1,
         "orderCode": "CM",
-        "description": "CAMERÚN"
+        "description": "Camerún"
     },
     {
         "code": 1,
         "orderCode": "CA",
-        "description": "CANADÁ"
+        "description": "Canadá"
     },
     {
         "code": 1,
@@ -162,17 +162,17 @@
     {
         "code": 1,
         "orderCode": "CO",
-        "description": "COLOMBIA"
+        "description": "Colombia"
     },
     {
         "code": 1,
         "orderCode": "KM",
-        "description": "COMORAS"
+        "description": "Comoras"
     },
     {
         "code": 1,
         "orderCode": "CG",
-        "description": "CONGO"
+        "description": "Congo"
     },
     {
         "code": 1,
@@ -192,47 +192,47 @@
     {
         "code": 1,
         "orderCode": "CI",
-        "description": "COSTA DE MARFIL"
+        "description": "Costa de Marfil"
     },
     {
         "code": 1,
         "orderCode": "CR",
-        "description": "COSTA RICA"
+        "description": "Costa Rica"
     },
     {
         "code": 1,
         "orderCode": "CU",
-        "description": "CUBA"
+        "description": "Cuba"
     },
     {
         "code": 1,
         "orderCode": "TD",
-        "description": "CHAD"
+        "description": "Chad"
     },
     {
         "code": 1,
         "orderCode": "CL",
-        "description": "CHILE"
+        "description": "Chile"
     },
     {
         "code": 1,
         "orderCode": "CN",
-        "description": "CHINA"
+        "description": "China"
     },
     {
         "code": 1,
         "orderCode": "CY",
-        "description": "CHIPRE"
+        "description": "Chipre"
     },
     {
         "code": 1,
         "orderCode": "DK",
-        "description": "DINAMARCA"
+        "description": "Dinamarca"
     },
     {
         "code": 1,
         "orderCode": "DM",
-        "description": "DOMINICA"
+        "description": "Dominica"
     },
     {
         "code": 1,
@@ -242,7 +242,7 @@
     {
         "code": 1,
         "orderCode": "EC",
-        "description": "ECUADOR"
+        "description": "Ecuador"
     },
     {
         "code": 1,
@@ -252,62 +252,62 @@
     {
         "code": 1,
         "orderCode": "ES",
-        "description": "ESPAÑA"
+        "description": "España"
     },
     {
         "code": 1,
         "orderCode": "US",
-        "description": "ESTADOS UNIDOS"
+        "description": "Estados Unidos"
     },
     {
         "code": 1,
         "orderCode": "ET",
-        "description": "ETIOPÍA"
+        "description": "Etiopía"
     },
     {
         "code": 1,
         "orderCode": "FJ",
-        "description": "FIJI"
+        "description": "Fiji"
     },
     {
         "code": 1,
         "orderCode": "PH",
-        "description": "FILIPINAS"
+        "description": "Filipinas"
     },
     {
         "code": 1,
         "orderCode": "FI",
-        "description": "FINLANDIA"
+        "description": "Finlandia"
     },
     {
         "code": 1,
         "orderCode": "FR",
-        "description": "FRANCIA"
+        "description": "Francia"
     },
     {
         "code": 1,
         "orderCode": "GA",
-        "description": "GABÓN"
+        "description": "Gabón"
     },
     {
         "code": 1,
         "orderCode": "GM",
-        "description": "GAMBIA"
+        "description": "Gambia"
     },
     {
         "code": 1,
         "orderCode": "GH",
-        "description": "GHANA"
+        "description": "Ghana"
     },
     {
         "code": 1,
         "orderCode": "GI",
-        "description": "GIBRALTAR"
+        "description": "Gibraltar"
     },
     {
         "code": 1,
         "orderCode": "GR",
-        "description": "GRECIA"
+        "description": "Grecia"
     },
     {
         "code": 1,
@@ -317,22 +317,22 @@
     {
         "code": 1,
         "orderCode": "GT",
-        "description": "GUATEMALA"
+        "description": "Guatemala"
     },
     {
         "code": 1,
         "orderCode": "GN",
-        "description": "GUINEA"
+        "description": "Guinea"
     },
     {
         "code": 1,
         "orderCode": "GY",
-        "description": "GUYANA"
+        "description": "Guyana"
     },
     {
         "code": 1,
         "orderCode": "HT",
-        "description": "HAITÍ"
+        "description": "Haití"
     },
     {
         "code": 1,
@@ -342,27 +342,27 @@
     {
         "code": 1,
         "orderCode": "HN",
-        "description": "HONDURAS"
+        "description": "Honduras"
     },
     {
         "code": 1,
         "orderCode": "HK",
-        "description": "HONG KONG"
+        "description": "Hong Kong"
     },
     {
         "code": 1,
         "orderCode": "HU",
-        "description": "HUNGRÍA"
+        "description": "Hungría"
     },
     {
         "code": 1,
         "orderCode": "ID",
-        "description": "INDONESIA"
+        "description": "Indonesia"
     },
     {
         "code": 1,
         "orderCode": "IQ",
-        "description": "IRAK"
+        "description": "Irak"
     },
     {
         "code": 1,
@@ -372,7 +372,7 @@
     {
         "code": 1,
         "orderCode": "IE",
-        "description": "IRLANDA"
+        "description": "Irlanda"
     },
     {
         "code": 1,
@@ -382,7 +382,7 @@
     {
         "code": 1,
         "orderCode": "IS",
-        "description": "ISLANDIA"
+        "description": "Islandia"
     },
     {
         "code": 1,
@@ -392,42 +392,42 @@
     {
         "code": 1,
         "orderCode": "IL",
-        "description": "ISRAEL"
+        "description": "Israel"
     },
     {
         "code": 1,
         "orderCode": "IT",
-        "description": "ITALIA"
+        "description": "Italia"
     },
     {
         "code": 1,
         "orderCode": "JM",
-        "description": "JAMAICA"
+        "description": "Jamaica"
     },
     {
         "code": 1,
         "orderCode": "JP",
-        "description": "JAPÓN"
+        "description": "Japón"
     },
     {
         "code": 1,
         "orderCode": "JO",
-        "description": "JORDANIA"
+        "description": "Jordania"
     },
     {
         "code": 1,
         "orderCode": "KE",
-        "description": "KENIA"
+        "description": "kenia"
     },
     {
         "code": 1,
         "orderCode": "KI",
-        "description": "KIRIBATI"
+        "description": "Kiribati"
     },
     {
         "code": 1,
         "orderCode": "KW",
-        "description": "KUWAIT"
+        "description": "Kuwait"
     },
     {
         "code": 1,
@@ -437,132 +437,132 @@
     {
         "code": 1,
         "orderCode": "LS",
-        "description": "LESOTHO"
+        "description": "Lesotho"
     },
     {
         "code": 1,
         "orderCode": "LB",
-        "description": "LÍBANO"
+        "description": "Líbano"
     },
     {
         "code": 1,
         "orderCode": "LR",
-        "description": "LIBERIA"
+        "description": "Liberia"
     },
     {
         "code": 1,
         "orderCode": "LY",
-        "description": "LIBIA"
+        "description": "Libia"
     },
     {
         "code": 1,
         "orderCode": "LI",
-        "description": "LIECHTENSTEIN"
+        "description": "Liechtenstein"
     },
     {
         "code": 1,
         "orderCode": "LU",
-        "description": "LUXEMBURGO"
+        "description": "Luxenburgo"
     },
     {
         "code": 1,
         "orderCode": "MG",
-        "description": "MADAGASCAR"
+        "description": "Madagascar"
     },
     {
         "code": 1,
         "orderCode": "MY",
-        "description": "MALASIA"
+        "description": "Malasia"
     },
     {
         "code": 1,
         "orderCode": "MW",
-        "description": "MALAWI"
+        "description": "Malawi"
     },
     {
         "code": 1,
         "orderCode": "MV",
-        "description": "MALDIVAS"
+        "description": "Maldivas"
     },
     {
         "code": 1,
         "orderCode": "MT",
-        "description": "MALTA"
+        "description": "Malta"
     },
     {
         "code": 1,
         "orderCode": "MA",
-        "description": "MARRUECOS"
+        "description": "Marruecos"
     },
     {
         "code": 1,
         "orderCode": "OM",
-        "description": "OMÁN"
+        "description": "Omán"
     },
     {
         "code": 1,
         "orderCode": "MU",
-        "description": "MAURICIO"
+        "description": "Mauricio"
     },
     {
         "code": 1,
         "orderCode": "MR",
-        "description": "MAURITANIA"
+        "description": "Mauritania"
     },
     {
         "code": 1,
         "orderCode": "MX",
-        "description": "MÉXICO"
+        "description": "México"
     },
     {
         "code": 1,
         "orderCode": "FM",
-        "description": "MICRONESIA"
+        "description": "Micronesia"
     },
     {
         "code": 1,
         "orderCode": "MC",
-        "description": "MÓNACO"
+        "description": "Mónaco"
     },
     {
         "code": 1,
         "orderCode": "MN",
-        "description": "MONGOLIA"
+        "description": "Mongolia"
     },
     {
         "code": 1,
         "orderCode": "MZ",
-        "description": "MOZAMBIQUE"
+        "description": "Mozambique"
     },
     {
         "code": 1,
         "orderCode": "NR",
-        "description": "NAURU"
+        "description": "Nauru"
     },
     {
         "code": 1,
         "orderCode": "NP",
-        "description": "NEPAL"
+        "description": "Nepal"
     },
     {
         "code": 1,
         "orderCode": "NI",
-        "description": "NICARAGUA"
+        "description": "Nicaragua"
     },
     {
         "code": 1,
         "orderCode": "NE",
-        "description": "NÍGER"
+        "description": "Níger"
     },
     {
         "code": 1,
         "orderCode": "NG",
-        "description": "NIGERIA"
+        "description": "Nigeria"
     },
     {
         "code": 1,
         "orderCode": "NO",
-        "description": "NORUEGA"
+        "description": "Noruega"
     },
     {
         "code": 1,
@@ -582,62 +582,62 @@
     {
         "code": 1,
         "orderCode": "PK",
-        "description": "PAKISTÁN"
+        "description": "Pakistán"
     },
     {
         "code": 1,
         "orderCode": "PA",
-        "description": "PANAMÁ"
+        "description": "Panamá"
     },
     {
         "code": 1,
         "orderCode": "PY",
-        "description": "PARAGUAY"
+        "description": "Paraguay"
     },
     {
         "code": 1,
         "orderCode": "PE",
-        "description": "PERÚ"
+        "description": "Perú"
     },
     {
         "code": 1,
         "orderCode": "PL",
-        "description": "POLONIA"
+        "description": "Polonia"
     },
     {
         "code": 1,
         "orderCode": "QA",
-        "description": "QATAR"
+        "description": "Qatar"
     },
     {
         "code": 1,
         "orderCode": "GB",
-        "description": "REINO UNIDO"
+        "description": "Reino Unido"
     },
     {
         "code": 1,
         "orderCode": "EG",
-        "description": "EGIPTO"
+        "description": "Egipto"
     },
     {
         "code": 1,
         "orderCode": "RW",
-        "description": "RUANDA"
+        "description": "Ruanda"
     },
     {
         "code": 1,
         "orderCode": "RO",
-        "description": "RUMANIA"
+        "description": "Rumania"
     },
     {
         "code": 1,
         "orderCode": "SM",
-        "description": "SAN MARINO"
+        "description": "San Marino"
     },
     {
         "code": 1,
         "orderCode": "WS",
-        "description": "SAMOA"
+        "description": "Samoa"
     },
     {
         "code": 1,
@@ -647,12 +647,12 @@
     {
         "code": 1,
         "orderCode": "LC",
-        "description": "SANTA LUCIA"
+        "description": "Santa Lucia"
     },
     {
         "code": 1,
         "orderCode": "SN",
-        "description": "SENEGAL"
+        "description": "Senegal"
     },
     {
         "code": 1,
@@ -667,27 +667,27 @@
     {
         "code": 1,
         "orderCode": "SL",
-        "description": "SIERRA LEONA"
+        "description": "Sierra Leona"
     },
     {
         "code": 1,
         "orderCode": "SG",
-        "description": "SINGAPUR"
+        "description": "Singapur"
     },
     {
         "code": 1,
         "orderCode": "SY",
-        "description": "SIRIA"
+        "description": "Siria"
     },
     {
         "code": 1,
         "orderCode": "SC",
-        "description": "SEYCHELLES"
+        "description": "Seychelles"
     },
     {
         "code": 1,
         "orderCode": "SO",
-        "description": "SOMALIA"
+        "description": "Somalia"
     },
     {
         "code": 1,
@@ -697,32 +697,32 @@
     {
         "code": 1,
         "orderCode": "ZA",
-        "description": "SUDÁFRICA"
+        "description": "Sudáfrica"
     },
     {
         "code": 1,
         "orderCode": "SD",
-        "description": "SUDÁN"
+        "description": "Sudán"
     },
     {
         "code": 1,
         "orderCode": "SE",
-        "description": "SUECIA"
+        "description": "Suecia"
     },
     {
         "code": 1,
         "orderCode": "CH",
-        "description": "SUIZA"
+        "description": "Suiza"
     },
     {
         "code": 1,
         "orderCode": "SR",
-        "description": "SURINAM"
+        "description": "Surinam"
     },
     {
         "code": 1,
         "orderCode": "LK",
-        "description": "SRI LANKA"
+        "description": "Sri Lanka"
     },
     {
         "code": 1,
@@ -737,67 +737,67 @@
     {
         "code": 1,
         "orderCode": "TG",
-        "description": "TOGO"
+        "description": "Togo"
     },
     {
         "code": 1,
         "orderCode": "TT",
-        "description": "TRINIDAD TOBAGO"
+        "description": "Trinidad y Tobago"
     },
     {
         "code": 1,
         "orderCode": "TO",
-        "description": "TONGA"
+        "description": "Tonga"
     },
     {
         "code": 1,
         "orderCode": "TN",
-        "description": "TÚNEZ"
+        "description": "Túnez"
     },
     {
         "code": 1,
         "orderCode": "TR",
-        "description": "TURQUÍA"
+        "description": "Turquía"
     },
     {
         "code": 1,
         "orderCode": "TV",
-        "description": "TUVALU"
+        "description": "Tuvalu"
     },
     {
         "code": 1,
         "orderCode": "UG",
-        "description": "UGANDA"
+        "description": "Uganda"
     },
     {
         "code": 1,
         "orderCode": "UY",
-        "description": "URUGUAY"
+        "description": "Uruguay"
     },
     {
         "code": 1,
         "orderCode": "VA",
-        "description": "VATICANO"
+        "description": "Vaticano"
     },
     {
         "code": 1,
         "orderCode": "VU",
-        "description": "VANUATU"
+        "description": "Vanuatu"
     },
     {
         "code": 1,
         "orderCode": "VE",
-        "description": "VENEZUELA"
+        "description": "Venezuela"
     },
     {
         "code": 1,
         "orderCode": "YE",
-        "description": "YEMEN SUR REP"
+        "description": "Yemen Sur Rep"
     },
     {
         "code": 1,
         "orderCode": "ZM",
-        "description": "ZAMBIA"
+        "description": "Zambia"
     },
     {
         "code": 1,
@@ -807,17 +807,17 @@
     {
         "code": 1,
         "orderCode": "PR",
-        "description": "PUERTO RICO"
+        "description": "Puerto Rico"
     },
     {
         "code": 1,
         "orderCode": "BS",
-        "description": "BAHAMAS"
+        "description": "Bahamas"
     },
     {
         "code": 1,
         "orderCode": "BM",
-        "description": "BERMUDAS"
+        "description": "Bermudas"
     },
     {
         "code": 1,
@@ -837,7 +837,7 @@
     {
         "code": 1,
         "orderCode": "VG",
-        "description": "ISLAS VÍRGENES BRITÁNICAS"
+        "description": "Islas Vírgenes Británicas"
     },
     {
         "code": 1,
@@ -847,82 +847,82 @@
     {
         "code": 1,
         "orderCode": "MK",
-        "description": "MACEDONIA"
+        "description": "Macedonia"
     },
     {
         "code": 1,
         "orderCode": "SV",
-        "description": "EL SALVADOR"
+        "description": "El Salvador"
     },
     {
         "code": 1,
         "orderCode": "BG",
-        "description": "BULGARIA"
+        "description": "Bulgaria"
     },
     {
         "code": 1,
         "orderCode": "DJ",
-        "description": "DJIBOUTÍ"
+        "description": "Djiboutí"
     },
     {
         "code": 1,
         "orderCode": "IN",
-        "description": "INDIA"
+        "description": "India"
     },
     {
         "code": 1,
         "orderCode": "ML",
-        "description": "MALI"
+        "description": "Mali"
     },
     {
         "code": 1,
         "orderCode": "PT",
-        "description": "PORTUGAL"
+        "description": "Portugal"
     },
     {
         "code": 1,
         "orderCode": "TH",
-        "description": "TAILANDIA"
+        "description": "Tailandia"
     },
     {
         "code": 1,
         "orderCode": "UA",
-        "description": "UCRANIA"
+        "description": "Ucrania"
     },
     {
         "code": 1,
         "orderCode": "UZ",
-        "description": "UZBEKISTÁN"
+        "description": "Uzbekistán"
     },
     {
         "code": 1,
         "orderCode": "PS",
-        "description": "PALESTINA"
+        "description": "Palestina"
     },
     {
         "code": 1,
         "orderCode": "HR",
-        "description": "CROACIA"
+        "description": "Croacia"
     },
     {
         "code": 1,
         "orderCode": "AM",
-        "description": "ARMENIA"
+        "description": "Armenia"
     },
     {
         "code": 1,
         "orderCode": "GE",
-        "description": "GEORGIA"
+        "description": "Georgia"
     },
     {
         "code": 1,
         "orderCode": "DE",
-        "description": "ALEMANIA"
+        "description": "Alemania"
     },
     {
         "code": 1,
         "orderCode": "RU",
-        "description": "RUSIA"
+        "description": "Rusia"
     },
     {
         "code": 1,
@@ -932,87 +932,87 @@
     {
         "code": 1,
         "orderCode": "VN",
-        "description": "VIETNAM"
+        "description": "Vietnam"
     },
     {
         "code": 1,
         "orderCode": "LV",
-        "description": "LETONIA"
+        "description": "Letonia"
     },
     {
         "code": 1,
         "orderCode": "SI",
-        "description": "ESLOVENIA"
+        "description": "Eslovenia"
     },
     {
         "code": 1,
         "orderCode": "AZ",
-        "description": "AZERBAIYÁN"
+        "description": "Azerbaiyán"
     },
     {
         "code": 1,
         "orderCode": "BY",
-        "description": "BIELORRUSIA"
+        "description": "Bielorrusia"
     },
     {
         "code": 1,
         "orderCode": "GL",
-        "description": "GROENLANDIA"
+        "description": "Groenlandia"
     },
     {
         "code": 1,
         "orderCode": "GW",
-        "description": "GUINEA-BISSAU"
+        "description": "Guinea-Bissau"
     },
     {
         "code": 1,
         "orderCode": "CC",
-        "description": "ISLA COCOS"
+        "description": "Isla Cocos"
     },
     {
         "code": 1,
         "orderCode": "AX",
-        "description": "ALAND"
+        "description": "Aland"
     },
     {
         "code": 1,
         "orderCode": "AW",
-        "description": "ARUBA"
+        "description": "Aruba"
     },
     {
         "code": 1,
         "orderCode": "ER",
-        "description": "ERITREA"
+        "description": "Eritrea"
     },
     {
         "code": 1,
         "orderCode": "EE",
-        "description": "ESTONIA"
+        "description": "Estonia"
     },
     {
         "code": 1,
         "orderCode": "GP",
-        "description": "GUADALUPE"
+        "description": "Guadalupe"
     },
     {
         "code": 1,
         "orderCode": "GF",
-        "description": "GUAYANA FRANCESA"
+        "description": "Guayana Francesa"
     },
     {
         "code": 1,
         "orderCode": "GG",
-        "description": "GUERNSEY"
+        "description": "Guernsey"
     },
     {
         "code": 1,
         "orderCode": "CX",
-        "description": "ISLA NAVIDAD"
+        "description": "Isla Navidad"
     },
     {
         "code": 1,
         "orderCode": "MP",
-        "description": "ISLAS MARIANAS DEL NORTE"
+        "description": "Islas Marianas del Norte"
     },
     {
         "code": 1,
@@ -1022,17 +1022,17 @@
     {
         "code": 1,
         "orderCode": "JE",
-        "description": "JERSEY"
+        "description": "Jersey"
     },
     {
         "code": 1,
         "orderCode": "KG",
-        "description": "KIRGUISTÁN"
+        "description": "Kirguistán"
     },
     {
         "code": 1,
         "orderCode": "YT",
-        "description": "MAYOTTE"
+        "description": "Mayotte"
     },
     {
         "code": 1,
@@ -1042,7 +1042,7 @@
     {
         "code": 1,
         "orderCode": "ME",
-        "description": "MONTENEGRO"
+        "description": "Montenegro"
     },
     {
         "code": 1,
@@ -1052,37 +1052,37 @@
     {
         "code": 1,
         "orderCode": "NF",
-        "description": "ISLA NORFOLK"
+        "description": "Isla Norfolk"
     },
     {
         "code": 1,
         "orderCode": "PF",
-        "description": "POLINESIA FRANCESA"
+        "description": "Polinesia Francesa"
     },
     {
         "code": 1,
         "orderCode": "SJ",
-        "description": "SVALBARD Y JAN MAYEN"
+        "description": "Svalbard y Jan Mayen"
     },
     {
         "code": 1,
         "orderCode": "TJ",
-        "description": "TAYIKISTÁN"
+        "description": "Tayikistán"
     },
     {
         "code": 1,
         "orderCode": "IO",
-        "description": "TERRITORIO BRITÁNICO DEL OCÉANO INDICO"
+        "description": "Territorio Británico del Océano Indico"
     },
     {
         "code": 1,
         "orderCode": "TL",
-        "description": "TIMOR ORIENTAL"
+        "description": "Timor Oriental"
     },
     {
         "code": 1,
         "orderCode": "TK",
-        "description": "TOKELAU"
+        "description": "Tokelau"
     },
     {
         "code": 1,
@@ -1097,12 +1097,12 @@
     {
         "code": 1,
         "orderCode": "CZ",
-        "description": "REPUBLICA CHECA"
+        "description": "República Checa"
     },
     {
         "code": 1,
         "orderCode": "CW",
-        "description": "CURAZAO"
+        "description": "Curazao"
     },
     {
         "code": 1,
@@ -1112,12 +1112,12 @@
     {
         "code": 1,
         "orderCode": "GQ",
-        "description": "GUINEA ECUATORIAL"
+        "description": "Guinea Ecuatorial"
     },
     {
         "code": 1,
         "orderCode": "IM",
-        "description": "ISLA DE MAN"
+        "description": "Isla de Man"
     },
     {
         "code": 1,
@@ -1127,22 +1127,22 @@
     {
         "code": 1,
         "orderCode": "PN",
-        "description": "ISLAS PITCAIRN"
+        "description": "ISlas Pitcairn"
     },
     {
         "code": 1,
         "orderCode": "RS",
-        "description": "SERBIA"
+        "description": "Serbia"
     },
     {
         "code": 1,
         "orderCode": "TF",
-        "description": "TERRITORIOS AUSTRALES FRANCESES"
+        "description": "Territorios Australes Franceses"
     },
     {
         "code": 1,
         "orderCode": "SK",
-        "description": "ESLOVAQUIA"
+        "description": "Eslovaquia"
     },
     {
         "code": 1,
@@ -1152,17 +1152,17 @@
     {
         "code": 1,
         "orderCode": "GU",
-        "description": "GUAM"
+        "description": "Guam"
     },
     {
         "code": 1,
         "orderCode": "CK",
-        "description": "ISLAS COOK"
+        "description": "Islas Cook"
     },
     {
         "code": 1,
         "orderCode": "FO",
-        "description": "ISLAS FAROE"
+        "description": "Islas Faroe"
     },
     {
         "code": 1,
@@ -1177,42 +1177,42 @@
     {
         "code": 1,
         "orderCode": "MH",
-        "description": "ISLAS MARSHALL"
+        "description": "Islas Marshall"
     },
     {
         "code": 1,
         "orderCode": "VI",
-        "description": "ISLAS VÍRGENES"
+        "description": "Islas Vírgenes"
     },
     {
         "code": 1,
         "orderCode": "MO",
-        "description": "MACAO"
+        "description": "Macao"
     },
     {
         "code": 1,
         "orderCode": "NA",
-        "description": "NAMIBIA"
+        "description": "Namibia"
     },
     {
         "code": 1,
         "orderCode": "NU",
-        "description": "NIUE"
+        "description": "Niue"
     },
     {
         "code": 1,
         "orderCode": "PW",
-        "description": "PALAOS"
+        "description": "Palaos"
     },
     {
         "code": 1,
         "orderCode": "RE",
-        "description": "REUNIÓN"
+        "description": "Reunión"
     },
     {
         "code": 1,
         "orderCode": "EH",
-        "description": "SAHARA OCCIDENTAL"
+        "description": "Sahara Occidental"
     },
     {
         "code": 1,
@@ -1227,21 +1227,21 @@
     {
         "code": 1,
         "orderCode": "AS",
-        "description": "SAMOA AMERICANA"
+        "description": "Samoa Americana"
     },
     {
         "code": 1,
         "orderCode": "PM",
-        "description": "SAN PEDRO Y MIQUELÓN"
+        "description": "San Pedro Y Miquelón"
     },
     {
         "code": 1,
         "orderCode": "SH",
-        "description": "SANTA ELENA"
+        "description": "Santa Elena"
     },
     {
         "code": 1,
         "orderCode": "BF",
-        "description": "BURKINA FASO"
+        "description": "Burkina Faso"
     }
 ]
