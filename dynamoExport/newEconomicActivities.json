@@ -3828,5 +3828,10 @@
         "constantCode": 1,
         "code": "10005",
         "description": "Otros"
+    },
+    {
+        "constantCode": 1,
+        "code": "10006",
+        "description": "Comerciante"
     }
 ]

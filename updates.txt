@@ -5,7 +5,7 @@ dynamoExport/newMeasurament.json->         felsv_qa_MeasurementUnit (constantCod
 dynamoExport/newPaymentForm.json           ->                felsv_qa_FormsPayment
 dynamoExport/newEconomicActivities.json                 ->                  felsv_qa_EconomicActivities
 dynamoExport/fiscal.json              ->                felsv_qa_FiscalPrecinct
-dynamoExport/newTransport.json                   ->           felsv_qa_TransportMode (constantCode: int, code:int
+dynamoExport/newTransport.json                   ->           felsv_qa_TransportMode
 dynamoExport/newIncoTerms.json            ->            felsv_qa_Incoterms
 
 
@@ -19,3 +19,19 @@ y luego
 dynamoExport/newRegimen.json                   ->           felsv_qa_RegimenType
 
 
+dynamoExport/newEstablishmentType.json -> felsv_qa_EstablishmentType OK
+dynamoExport/newState.json -> felsv_qa_State OK
+dynamoExport/newCity.json -> felsv_qa_City ok
+dynamoExport/countries.json -> felsv_qa_CountryCoding OK
+dynamoExport/newIncoTerms.json -> felsv_qa_Incoterms OK
+dynamoExport/newTransport.json-> felsv_qa_TransportMode OK
+dynamoExport/newRegimen.json ->felsv_qa_RegimenType OK
+dynamoExport/fiscal.json -> felsv_qa_FiscalPrecinct OK
+dynamoExport/newEconomicActivities.json -> felsv_qa_EconomicActivities OK
+dynamoExport/newPaymentForm.json -> felsv_qa_FormsPayment OK
+dynamoExport/newMeasurament.json->felsv_qa_MeasurementUnit 
+
+
+En Catalogo de unidades de medidas y Regimen se encuentra que entre el nuevo y viejo catalogo hay
+items que no tienen actualizacion o elimnacion, es decir no salen entonces se proceden a dejar en caso no tenga
+necesidad de actualizacion en esos datos

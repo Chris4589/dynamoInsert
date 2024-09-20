@@ -872,7 +872,8 @@
     {
         "code": 1,
         "orderCode": "ML",
-        "description": "Mali"
+        "description": "Mali",
+        "delete": true
     },
     {
         "code": 1,

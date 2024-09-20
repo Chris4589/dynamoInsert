@@ -1,4 +1,4 @@
 {
-  "filename": "dynamoExport/countries.json",
-  "tableName": "felsv_qa_CountryCoding"
+  "filename": "dynamoExport/newPaymentForm.json",
+  "tableName": "felsv_qa_FormsPayment"
 }

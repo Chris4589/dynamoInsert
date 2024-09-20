@@ -13,7 +13,8 @@
     {
         "constantCode": 1,
         "code": "5",
-        "description": "Transferencia-Depósito Bancario"
+        "description": "Transferencia-Depósito Bancario",
+        "delete": true
     },
     {
         "constantCode": 1,
