@@ -1,4 +1,4 @@
 {
-  "filename": "dynamoExport/newDocumentsAsso.json",
-  "tableName": "felsv_qa_AssociatedDocuments"
+  "filename": "dynamoExport/fiscal.json",
+  "tableName": "felsv_qa_FiscalPrecinct"
 }
