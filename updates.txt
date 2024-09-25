@@ -8,7 +8,7 @@ dynamoExport/fiscal.json              ->                felsv_qa_FiscalPrecinct
 dynamoExport/newTransport.json                   ->           felsv_qa_TransportMode
 dynamoExport/newIncoTerms.json            ->            felsv_qa_Incoterms
 
-
+dynamoExport/newDocumentsAsso.json  ->   felsv_qa_AssociatedDocuments
 dynamoExport/countries.json                   ->               felsv_qa_CountryCoding   reiniciar tabla e insertar
 
 
