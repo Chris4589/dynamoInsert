@@ -3,5 +3,10 @@
         "constantCode": 1,
         "code": 3,
         "description": "Médico (solo aplica para contribuyentes obligados a la presentación de F-958)"
+       },
+       {
+        "constantCode": 1,
+        "code": 4,
+        "description": "Transporte (solo aplica para Factura de exportación)"
        }
 ]
