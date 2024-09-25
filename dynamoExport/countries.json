@@ -127,7 +127,7 @@
     {
         "code": 1,
         "orderCode": "BI",
-        "description": "Brundi"
+        "description": "Burundi"
     },
     {
         "code": 1,
@@ -177,17 +177,17 @@
     {
         "code": 1,
         "orderCode": "CD",
-        "description": "Republica Democratica del"
+        "description": "República Democratica del"
     },
     {
         "code": 1,
         "orderCode": "KP",
-        "description": "Rep. Democratica popular de"
+        "description": "Rep. Democrática popular de"
     },
     {
         "code": 1,
         "orderCode": "KR",
-        "description": "Republica de Corea"
+        "description": "República de Corea"
     },
     {
         "code": 1,
@@ -337,7 +337,7 @@
     {
         "code": 1,
         "orderCode": "NL",
-        "description": "Paises Bajos"
+        "description": "Países Bajos"
     },
     {
         "code": 1,
@@ -367,7 +367,7 @@
     {
         "code": 1,
         "orderCode": "IR",
-        "description": "Republica Islamica de Iran"
+        "description": "República Islámica de Irán"
     },
     {
         "code": 1,
@@ -432,7 +432,7 @@
     {
         "code": 1,
         "orderCode": "LA",
-        "description": "Laos, Republica Democratica"
+        "description": "Laos, República Democrática"
     },
     {
         "code": 1,
@@ -462,7 +462,7 @@
     {
         "code": 1,
         "orderCode": "LU",
-        "description": "Luxenburgo"
+        "description": "Luxemburgo"
     },
     {
         "code": 1,
@@ -642,12 +642,12 @@
     {
         "code": 1,
         "orderCode": "KN",
-        "description": "San Cristobal y Nieves"
+        "description": "San Cristóbal y Nieves"
     },
     {
         "code": 1,
         "orderCode": "LC",
-        "description": "Santa Lucia"
+        "description": "Santa Lucía"
     },
     {
         "code": 1,
@@ -657,7 +657,7 @@
     {
         "code": 1,
         "orderCode": "ST",
-        "description": "Santo Tomé y Principe"
+        "description": "Santo Tomé y Príncipe"
     },
     {
         "code": 1,
@@ -717,7 +717,7 @@
     {
         "code": 1,
         "orderCode": "SR",
-        "description": "Surinam"
+        "description": "Surinám"
     },
     {
         "code": 1,
@@ -732,7 +732,7 @@
     {
         "code": 1,
         "orderCode": "TZ",
-        "description": "Tanzania, Republica Unida de"
+        "description": "Tanzania, República Unida de"
     },
     {
         "code": 1,
@@ -777,7 +777,7 @@
     {
         "code": 1,
         "orderCode": "VA",
-        "description": "Vaticano"
+        "description": "Ciudad del Vaticano"
     },
     {
         "code": 1,
@@ -872,7 +872,7 @@
     {
         "code": 1,
         "orderCode": "ML",
-        "description": "Mali",
+        "description": "Malí",
         "delete": true
     },
     {
@@ -968,7 +968,7 @@
     {
         "code": 1,
         "orderCode": "CC",
-        "description": "Isla Cocos"
+        "description": "Islas Cocos"
     },
     {
         "code": 1,
@@ -1038,7 +1038,7 @@
     {
         "code": 1,
         "orderCode": "MD",
-        "description": "Moldavia, Republica de"
+        "description": "Moldavia, República de"
     },
     {
         "code": 1,
@@ -1073,7 +1073,7 @@
     {
         "code": 1,
         "orderCode": "IO",
-        "description": "Territorio Británico del Océano Indico"
+        "description": "Territorio Británico Océano"
     },
     {
         "code": 1,
@@ -1088,7 +1088,7 @@
     {
         "code": 1,
         "orderCode": "TM",
-        "description": "Turkmenistan"
+        "description": "Turkmenistán"
     },
     {
         "code": 1,
